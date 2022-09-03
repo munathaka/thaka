@@ -5,79 +5,166 @@
 @import "rouge-base16-dark";
 @import "default_colors";
 
-$body-background: $cod-grey !default;
-$body-foreground: $gallery !default;
-$header: $conifer !default;
-$blockquote-color: $silver-chalice !default;
-$blockquote-border: $dove-grey !default;
+$body-background: $cod-grey  !default;
+$body-foreground: $gallery  !default;
+$header: $conifer  !default;
+$blockquote-color: $silver-chalice  !default;
+$blockquote-border: $dove-grey  !default;
 $container-max-width: 1000px;
 
 @mixin media-max-width($max-width) {
   @media (max-width: $max-width) {
-      @content;
+    @content;
   }
 }
 
 
 
-html, body, div, span, applet, object, iframe, 
-h1, h2, h3, h4, h5, h6,  p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
 }
+
 body {
-	line-height: 1;
+  line-height: 1;
 }
-ol, ul {
-	list-style: none;
+
+ol,
+ul {
+  list-style: none;
 }
-blockquote, q {
-	quotes: none;
+
+blockquote,
+q {
+  quotes: none;
 }
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
 }
+
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 
 
+
 body {
-  color: white;
-	 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg) no-repeat center center fixed; 
-  font-family: Ubuntu, sans-serif;
+  margin: 0;
+  padding: 0;
+
+  color: wheat;
+  background-color: #010a00;
+  background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+  font-size: 16px;
   line-height: 1.5;
-   -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
   font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
 }
-
 
 /* General & 'Reset' Stuff */
 
@@ -92,12 +179,17 @@ section {
   margin: 0 0 20px 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 0 0 20px;
 }
 
 li {
-  line-height: 1.4 ;
+  line-height: 1.4;
 }
 
 /* Header, <header>
@@ -113,6 +205,7 @@ header {
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
+
 /*
 header h1 {
   font-size: 30px;
@@ -146,17 +239,17 @@ header h1 {
   /* text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
     0 0 5px rgba(181, 232, 83, 0.1),
     0 0 10px rgba(181, 232, 83, 0.1);  */
-    color: #fff;
-    text-shadow:
-        0 0 7px #fff,
-        0 0 10px #fff,
-        0 0 21px #fff,
-        0 0 42px #0DCBFF,
-        0 0 82px #0DCBFF,
-        0 0 92px #0DCBFF,
-        0 0 102px #0DCBFF,
-        0 0 125px #0DCBFF;
-    letter-spacing: -1px;
+  color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0DCBFF,
+    0 0 82px #0DCBFF,
+    0 0 92px #0DCBFF,
+    0 0 102px #0DCBFF,
+    0 0 125px #0DCBFF;
+  letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
 
   @include media-max-width($container-max-width) {
@@ -167,7 +260,7 @@ header h1 {
 
 
 header h1:before {
- /* content: "./BUBBLEGUMPOP"; */
+  /* content: "./BUBBLEGUMPOP"; */
   font-size: 4rem;
 }
 
@@ -190,18 +283,24 @@ header h2 {
   width: 100%;
   -webkit-font-smoothing: antialiased;
 }
+
 section img {
   max-width: 100%
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: normal;
   color: $header;
   padding: 10px 10px 10px 15px;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+    0 0 5px rgba(181, 232, 83, 0.1),
+    0 0 10px rgba(181, 232, 83, 0.1);
 }
 
 #main_content h1 {
@@ -239,7 +338,7 @@ dt {
 }
 
 ul li {
-  list-style-image:url('../images/bullet.png');
+  list-style-image: url('../images/bullet.png');
 }
 
 blockquote {
@@ -254,7 +353,7 @@ pre {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 16px;
-  
+
   border-radius: 2px;
   word-wrap: normal;
   overflow: auto;
@@ -262,7 +361,7 @@ pre {
 }
 
 code.highlighter-rouge {
-  background: rgba(0,0,0,0.9);
+  background: rgba(0, 0, 0, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 0px 3px;
   margin: 0px -3px;
@@ -273,8 +372,8 @@ code.highlighter-rouge {
 table {
   width: 100%;
   margin: 0 0 20px 0;
-  background: rgb(0,212,255);
-background: radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+  background: rgb(0, 212, 255);
+  background: radial-gradient(circle, rgba(0, 212, 255, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
 }
 
 th {
@@ -331,11 +430,12 @@ hr {
 }
 
 
-   a, a:hover, a:visited
+a,
+a:hover,
+a:visited a:hover {
+  color: #c9ff23;
+}
 
-   a:hover {
-    color: #c9ff23;
-  }
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
@@ -343,24 +443,25 @@ a {
 
 /* Clearfix */
 
-.cf:before, .cf:after {
-  content:"";
-  display:table;
+.cf:before,
+.cf:after {
+  content: "";
+  display: table;
 }
 
 .cf:after {
-  clear:both;
+  clear: both;
 }
 
 .cf {
-  zoom:1;
+  zoom: 1;
 }
 
 #a-title {
   text-decoration: none;
 }
 
-	
+
 
 
 iframe {
@@ -370,14 +471,13 @@ iframe {
   border: none;
 }
 
-p
-{
+p {
   color: white;
-  background: rgb(172,65,66);
-  background: linear-gradient(90deg, rgba(172,65,66,0.7399334733893557) 0%, rgba(170,117,159,0.8127626050420168) 35%, rgba(0,212,255,0.7091211484593838) 100%);
+  background: rgb(172, 65, 66);
+  background: linear-gradient(90deg, rgba(172, 65, 66, 0.7399334733893557) 0%, rgba(170, 117, 159, 0.8127626050420168) 35%, rgba(0, 212, 255, 0.7091211484593838) 100%);
   /* background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif"); */
 }
-	
+
 img {
   padding: 0px;
   margin: 0px;
@@ -388,12 +488,10 @@ h2,
 h1,
 h3 {
   color: white;
-  background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
-    center repeat;
+  background: transparent url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif) center repeat;
   font-weight: 900;
-  background: rgb(0,0,0);
-background: linear-gradient(278deg, rgba(0,0,0,0.7768595041322314) 0%, rgba(72,83,89,0.8292011019283747) 35%, rgba(176,185,191,0.7768595041322314) 100%);
+  background: rgb(0, 0, 0);
+  background: linear-gradient(278deg, rgba(0, 0, 0, 0.7768595041322314) 0%, rgba(72, 83, 89, 0.8292011019283747) 35%, rgba(176, 185, 191, 0.7768595041322314) 100%);
   padding: 0px;
   margin: 0px;
   text-align: left;
@@ -403,12 +501,13 @@ background: linear-gradient(278deg, rgba(0,0,0,0.7768595041322314) 0%, rgba(72,8
 }
 
 h2 {
-font-weight: 900;
-padding: 0px;
-margin: 0px;
-text-align: left;
+  font-weight: 900;
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
 
 }
+
 .firstcharacter {
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
@@ -517,7 +616,7 @@ text-align: left;
   color: #fff;
 }
 
-	
+
 .some-page-wrapper {
   margin: 15px;
   background-color: #23b2ff;
@@ -548,21 +647,21 @@ text-align: left;
 
 .blue-column {
   background-color: #23ff32;
-  
+
 }
 
 .green-column {
-    
-    background-color: #c9ff23;
-}	
-	/* ------------------------------------------- */	
-	
-	
+
+  background-color: #c9ff23;
+}
+
+/* ------------------------------------------- */
+
+
 .twoPanelSpread {
   margin: 0px;
   padding: 0px;
-  background: url( https://i.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.webp )
-    center repeat;
+  background: url(https://i.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.webp ) center repeat;
 }
 
 .row {
@@ -598,6 +697,7 @@ text-align: left;
 .rightColumn {
   background-color: #c9ff23;
 }
+
 .rightColumn img {
   flex-shrink: 0;
   min-width: 100%;
@@ -659,16 +759,16 @@ audio:active {
   transform: scale(1.05);
 }
 
-#row_image  {
-border: 5px solid #ccc;
-background: #666;
+#row_image {
+  border: 5px solid #ccc;
+  background: #666;
   max-width: 100%;
   padding: 50px;
   background-image: url("https://www.whosampled.com/static/track_images_100/mr11753_2010108_73251697983.jpg");
   background-repeat: repeat;
-	}
+}
 
-	
+
 .gallery {
   width: 100%;
   margin: 0 auto;
@@ -685,46 +785,50 @@ background: #666;
     0 0 50px #fff,
     -10px 0 80px #FFF300,
     10px 0 80px #0AFF00;
-  
+
 }
+
 .image {
   width: 100px;
   flex: 1 0 auto;
 }
+
 .featured-image {
   flex: 0 0 100%;
 }
 
 /* GiTHUB_LOGO##TEAM_SPiRiT!!! */
 
-	/* IMAN_FRUM_SOMALiA_MY_MOMMA */
+/* IMAN_FRUM_SOMALiA_MY_MOMMA */
 .pinupGallery {
   width: 100%;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   gap: 15px;
-   object-fit: contain;
+  object-fit: contain;
 }
+
 .pinupImage {
   width: 100px;
   flex: 1 0 auto;
 }
+
 .featured-pinupImage {
   flex: 0 0 100%;
-}	
-	
+}
+
 /* General presentation stuff */
 .post-content {
-	max-width: 100%;
-	margin: 0 auto;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 /* img {	max-width: 100%; }  ###MAY_BE_BREAKING_SOME_SOME_IMAGES */
 
 /* Set content grid so it respects order values */
 .post-content {
-	display: grid;
+  display: grid;
 }
 
 /*
@@ -732,45 +836,45 @@ Style image if there is an image right after the heading
 Use order to put it above the heading
 Relative position for absolute caption
 */
-.post-content h1 + .kg-image-card {
-	margin: 0 -24px;
-	order: -1;
-	position: relative;
+.post-content h1+.kg-image-card {
+  margin: 0 -24px;
+  order: -1;
+  position: relative;
 }
 
 
 /* Style image's caption if there is an image right after the heading */
-.post-content h1 + .kg-image-card figcaption {
-	bottom: 0;
-	left: 0;
-	right: 0;
-	padding: 1rem 1rem 1.2rem;
-	opacity: 0.5;
-	background: white;
+.post-content h1+.kg-image-card figcaption {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem 1rem 1.2rem;
+  opacity: 0.5;
+  background: white;
 }
-	
+
 /* FLEX_BOX_FOR_3_IMAGES */
 .flex-container {
 
-    display: flex;
-     align-items: stretch; 
-     flex-flow: row nowrap;  
-    flex-direction: row; 
-    flex-wrap: nowrap; 
-    justify-content: center;
-    align-content: stretch;
-    height: 100%;
-    padding: 15px;
-    gap: 5px;
+  display: flex;
+  align-items: stretch;
+  flex-flow: row nowrap;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: stretch;
+  height: 100%;
+  padding: 15px;
+  gap: 5px;
 
-  }
+}
 
-  .flex-container > div{
-   
-    border: 1px solid #c9ff23;
-    border-radius: 1px;
-    padding: 8px;
-  }
+.flex-container>div {
+
+  border: 1px solid #c9ff23;
+  border-radius: 1px;
+  padding: 8px;
+}
 
 
 
@@ -787,11 +891,11 @@ Relative position for absolute caption
   justify-content: center;
   align-content: stretch;
   height: 100%;
- /* min-width: fit-content; */
- /* max-width: max-content; */
+  /* min-width: fit-content; */
+  /* max-width: max-content; */
   width: 100%;
   display: grid;
-    grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto auto;
   object-fit: contain;
 }
 
@@ -994,6 +1098,3 @@ Relative position for absolute caption
 
   flex: var(--magnifier);
 }
-
-	
-	
