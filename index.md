@@ -16,7 +16,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 [Basic concepts of flexbox - DEVELOPER.MOZiLLA.](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 [ROAM presents: Jayda G on Fauve Radio](youtube.com/watch?v=63wzhFt3Bas)
 [Jayda_G_is_my_wife Boiler Room London Studio DJ Set](https://www.youtube.com/watch?v=EPjoLWoW_Lw)
-
+<IMG src="https://static01.nyt.com/images/2011/10/04/blogs/20111004-Lens-Brandt2-slide-PBCC/20111004-Lens-Brandt2-slide-PBCC-jumbo.jpg">
 
 
 ## Hole to another universe 
