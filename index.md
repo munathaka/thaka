@@ -10,7 +10,14 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 
 
+<IMG src="https://upload.wikimedia.org/wikipedia/commons/f/fd/It_%281927_film_poster%29.jpg">
 
+<div class="flex-container">
+
+  <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+</div>
 
 
 [Basic concepts of flexbox - DEVELOPER.MOZiLLA.](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
@@ -30,6 +37,9 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
+
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/zq8Kr7SREys" title="Clara Bow is dancing the Hula" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <IMG src="https://i.pinimg.com/originals/82/38/43/82384346f772edf917ad61370552b14e.gif">
 
 [The%20Goddess%20of%20Spring%20-%20Silly%20Symphony](https://www.youtube.com/watch?v=pBo8NOarYMo)
@@ -65,4 +75,95 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <IMG src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/51745034_2004626506251651_7992434637454442496_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=uIL9GEccG1sAX82pU68&_nc_ht=scontent-lax3-2.xx&oh=00_AT93DG62pG3DbKwUaPJbL1pKEMDdzR2p1NAg90MQaxKkxA&oe=633A552B">
 <IMG src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/91398791_2792237624157198_305594082820882432_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=lyLjOrWKfAUAX-b-6t2&_nc_ht=scontent-lax3-1.xx&oh=00_AT_E-2Pd17mSdVVPGvYGRVuJsSLlrTayrF_JKm9qUJdKag&oe=6339019C">
 <IMG src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/51168169_2004626239585011_4691468128327041024_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=aiTYdCIIPn8AX-o6wWC&_nc_ht=scontent-lax3-2.xx&oh=00_AT8tkY40VfbeK9PfjvR8kQgdOM0Rj7RVVVxltxhR7I5gUQ&oe=63392AF8">
+
+<a href="https://youtu.be/zQDcJBrLcNQ" target="_blank" alt="WE_NEED_TO_MARRY_INFRONT_OF_PEOPLE_WITH_WITH_ALL_OUR_PEOPLEFRIENDS_FOREVER_WE_SURVIVED_THE_BOMBINGS_IN_GEORGIA!LETS_GET_MARRIED" ><img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg"> </a>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/132818075_1816885688473080_7298094709213629150_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=7de2PzowOTcAX92Hr_8&_nc_ht=scontent-lax3-2.xx&oh=00_AT8DZ6n6OFagvIKHOVXf3C822PeGuqTvt0C7bm4ZZm--QA&oe=6317EB01" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/132818075_1816885688473080_7298094709213629150_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=7de2PzowOTcAX92Hr_8&_nc_ht=scontent-lax3-2.xx&oh=00_AT8DZ6n6OFagvIKHOVXf3C822PeGuqTvt0C7bm4ZZm--QA&oe=6317EB01" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<div class="panel4-container">
+    <div class="item1"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item2"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item3"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+</div>
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/104588298_1643394085822242_3137382172370219359_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=K9gIfiQP5BIAX8ChW1g&_nc_ht=scontent-lax3-2.xx&oh=00_AT-taqrAAkNgGzXHGIDu8icUQYLm9BaJr2-GeSkzy5mXkg&oe=6312BF9C">
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132544861_1819218584906457_439453098938799085_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=lZ6AHJaHkDEAX85Zv59&_nc_ht=scontent-lax3-1.xx&oh=00_AT_xT5pjN5sPYiPQrtk3_pnzWrRmBxqnM3IumLavSnB2-g&oe=6317D4FB" >
+<iframe width="100%" height="520" src="https://www.youtube.com/embed/RvUVxYndYuU" title="M.I.A. - Bring The Noize (Matangi Street Edition)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Bob Marley Legend full album](https://www.youtube.com/watch?v=Hp325M9MMFI)
+[Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM](https://www.youtube.com/watch?v=vCu6ztxthXI) [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
+
+
+<div class="flex-container">
+
+  <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+</div>
+
+
+<div class="flex-container">
+
+  <div class="item1"> <img src="https://c8.alamy.com/comp/AY3M86/touching-up-eyelashes-AY3M86.jpg" /></div>
+  <div class="item2"> <img src="https://c8.alamy.com/comp/AY3M86/touching-up-eyelashes-AY3M86.jpg" /></div>
+  <div class="item3"> <img src="https://c8.alamy.com/comp/AY3M86/touching-up-eyelashes-AY3M86.jpg" /></div>
+</div>
+
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="#MSK_GRAFFITI">
+<a href="https://youtu.be/zQDcJBrLcNQ" target="_blank" alt="WE_NEED_TO_MARRY_INFRONT_OF_PEOPLE_WITH_WITH_ALL_OUR_PEOPLEFRIENDS_FOREVER_WE_SURVIVED_THE_BOMBINGS_IN_GEORGIA!LETS_GET_MARRIED" ><img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg"> </a>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/132818075_1816885688473080_7298094709213629150_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=7de2PzowOTcAX92Hr_8&_nc_ht=scontent-lax3-2.xx&oh=00_AT8DZ6n6OFagvIKHOVXf3C822PeGuqTvt0C7bm4ZZm--QA&oe=6317EB01" alt="##QUXUBE_CANNOT_PICK_HER_OWN_MAN"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/132818075_1816885688473080_7298094709213629150_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=7de2PzowOTcAX92Hr_8&_nc_ht=scontent-lax3-2.xx&oh=00_AT8DZ6n6OFagvIKHOVXf3C822PeGuqTvt0C7bm4ZZm--QA&oe=6317EB01" alt=""> </a>
+         </div>
+    </div>
+  </div>
+</div>
+<div class="panel4-container">
+    <div class="item1"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item2"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item3"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+    <div class="item4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
+</div>
+<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/104588298_1643394085822242_3137382172370219359_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=K9gIfiQP5BIAX8ChW1g&_nc_ht=scontent-lax3-2.xx&oh=00_AT-taqrAAkNgGzXHGIDu8icUQYLm9BaJr2-GeSkzy5mXkg&oe=6312BF9C">
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132544861_1819218584906457_439453098938799085_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=lZ6AHJaHkDEAX85Zv59&_nc_ht=scontent-lax3-1.xx&oh=00_AT_xT5pjN5sPYiPQrtk3_pnzWrRmBxqnM3IumLavSnB2-g&oe=6317D4FB" >
+<iframe width="100%" height="520" src="https://www.youtube.com/embed/RvUVxYndYuU" title="M.I.A. - Bring The Noize (Matangi Street Edition)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Bob Marley Legend full album](https://www.youtube.com/watch?v=Hp325M9MMFI)
+[Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM](https://www.youtube.com/watch?v=vCu6ztxthXI) [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
+
+
+<div class="flex-container">
+
+  <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+</div>
+
+
+<div class="flex-container">
+
+  <div class="item1"> <img src="https://c8.alamy.com/comp/AY3M86/touching-up-eyelashes-AY3M86.jpg" /></div>
+  <div class="item2"> <img src="https://c8.alamy.com/comp/AY3M86/touching-up-eyelashes-AY3M86.jpg" /></div>
+  <div class="item3"> <img src="https://c8.alamy.com/comp/AY3M86/touching-up-eyelashes-AY3M86.jpg" /></div>
+</div>
+
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="#MSK_GRAFFITI">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4SyadrABZJIjeND1HPJS31?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
