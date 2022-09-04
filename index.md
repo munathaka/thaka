@@ -9,8 +9,8 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
 
+<IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg">
 
-<IMG src="https://upload.wikimedia.org/wikipedia/commons/f/fd/It_%281927_film_poster%29.jpg">
 
 <div class="flex-container">
 
@@ -167,3 +167,6 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="#MSK_GRAFFITI">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4SyadrABZJIjeND1HPJS31?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<IMG src="https://upload.wikimedia.org/wikipedia/commons/f/fd/It_%281927_film_poster%29.jpg">
+
+<IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg">
