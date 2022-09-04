@@ -864,10 +864,12 @@ Relative position for absolute caption
   flex-flow: row nowrap;
   flex-direction: row;
   flex-wrap: nowrap;
+
   justify-content: center;
   align-content: stretch;
-  height: 100%;
-  padding: 15px;
+  max-height: 100%;
+  width:100%;
+  padding: 0px;
   gap: 5px;
 
 }
