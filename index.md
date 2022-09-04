@@ -37,11 +37,14 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <IMG src="https://i.pinimg.com/736x/cd/50/a0/cd50a0503ac8c96e7de28371d258e99f--disney-posters-classic.jpg">
 
 [Silly Symphonies - The Skeleton Dance](https://www.youtube.com/watch?v=vOGhAV-84iI)
+<IMG src="https://m.media-amazon.com/images/M/MV5BOWRmNDI2MWEtNzIwNi00ZTFjLThlNjYtZjEwOTdhZTI3NDM5XkEyXkFqcGdeQXVyNjYyODY4NDU@._V1_FMjpg_UX1000_.jpg">
+
 [Popeye The Sailor Man - Meets Alibaba's Forty Thieves](https://www.youtube.com/watch?v=W0uqdyMns9M)
 
 <IMG src="https://dygtyjqp7pi0m.cloudfront.net/i/28385/24833978_1.jpg?v=8D397A887547150">
 
-[Silly Symphony - The Three Little Pigs(https://www.youtube.com/watch?v=FsZ61cCieaM)
+[Silly Symphony - The Three Little Pigs](https://www.youtube.com/watch?v=FsZ61cCieaM)
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/291997691&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; ;"><a href="https://soundcloud.com/nichtwie-duheist" title="Nichtwie Duheist" target="_blank" style="color: #cccccc; text-decoration: none;">Nichtwie Duheist</a> · <a href="https://soundcloud.com/nichtwie-duheist/now-im-high-really-high" title="Now I&#x27;m High, Really High" target="_blank" style="color: #cccccc; text-decoration: none;">Now I&#x27;m High, Really High</a></div>
 <iframe width="100%" height="250" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/53684455&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/apollobrown-1" title="ApolloBrown" target="_blank" style="color: #cccccc; text-decoration: none;">ApolloBrown</a> · <a href="https://soundcloud.com/apollobrown-1/prove-me-wrong" title="Prove Me Wrong" target="_blank" style="color: #cccccc; text-decoration: none;">Prove Me Wrong</a></div>
 
