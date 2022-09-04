@@ -37,6 +37,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <IMG src="https://i.pinimg.com/736x/cd/50/a0/cd50a0503ac8c96e7de28371d258e99f--disney-posters-classic.jpg">
 
 [Silly Symphonies - The Skeleton Dance](https://www.youtube.com/watch?v=vOGhAV-84iI)
+[Popeye The Sailor Man - Meets Alibaba's Forty Thieves](https://www.youtube.com/watch?v=W0uqdyMns9M)
 
 <IMG src="https://dygtyjqp7pi0m.cloudfront.net/i/28385/24833978_1.jpg?v=8D397A887547150">
 
