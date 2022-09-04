@@ -101,7 +101,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
     <div class="item3"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
     <div class="item4"><img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/130106157_1802809159880733_1955199704925607514_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=mCx2qCmVb1IAX_Mj4M5&_nc_ht=scontent-lax3-2.xx&oh=00_AT83LEZpRv4-mrNwOUMMrqQEuV6eX5o30fJdGoVUkojtDw&oe=631A0942"></div>
 </div>
-<img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/104588298_1643394085822242_3137382172370219359_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=K9gIfiQP5BIAX8ChW1g&_nc_ht=scontent-lax3-2.xx&oh=00_AT-taqrAAkNgGzXHGIDu8icUQYLm9BaJr2-GeSkzy5mXkg&oe=6312BF9C">
+
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132544861_1819218584906457_439453098938799085_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=lZ6AHJaHkDEAX85Zv59&_nc_ht=scontent-lax3-1.xx&oh=00_AT_xT5pjN5sPYiPQrtk3_pnzWrRmBxqnM3IumLavSnB2-g&oe=6317D4FB" >
 <iframe width="100%" height="520" src="https://www.youtube.com/embed/RvUVxYndYuU" title="M.I.A. - Bring The Noize (Matangi Street Edition)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -148,18 +148,9 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 </div>
 <img src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/104588298_1643394085822242_3137382172370219359_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=K9gIfiQP5BIAX8ChW1g&_nc_ht=scontent-lax3-2.xx&oh=00_AT-taqrAAkNgGzXHGIDu8icUQYLm9BaJr2-GeSkzy5mXkg&oe=6312BF9C">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/132544861_1819218584906457_439453098938799085_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=lZ6AHJaHkDEAX85Zv59&_nc_ht=scontent-lax3-1.xx&oh=00_AT_xT5pjN5sPYiPQrtk3_pnzWrRmBxqnM3IumLavSnB2-g&oe=6317D4FB" >
-<iframe width="100%" height="520" src="https://www.youtube.com/embed/RvUVxYndYuU" title="M.I.A. - Bring The Noize (Matangi Street Edition)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Bob Marley Legend full album](https://www.youtube.com/watch?v=Hp325M9MMFI)
 [Artifacts - Between A Rock And A Hard Place 1994 FULL ALBUM](https://www.youtube.com/watch?v=vCu6ztxthXI) [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
-
-
-<div class="flex-container">
-
-  <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
-  <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
-  <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
-</div>
 
 
 <div class="flex-container">
@@ -171,6 +162,14 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="#MSK_GRAFFITI">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/4SyadrABZJIjeND1HPJS31?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<IMG src="https://upload.wikimedia.org/wikipedia/commons/f/fd/It_%281927_film_poster%29.jpg">
+
+<div class="flex-container">
+
+  <div class="item1"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item2"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+  <div class="item3"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+</div>
+
+
 
 <IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg">
