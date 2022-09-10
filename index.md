@@ -8,6 +8,10 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+
+## LOVEiSANiNFiNiTERESOURCE
+[Willow Smith Talks Polyamory on Red Table Talk: “Love Is an Infinite Resource”](https://www.them.us/story/willow-smith-talks-polyamory-red-table-talk-interview)
+
 ## TEMPLATE_FOR_OUR_PAGES_BLOGS
 ### powered by https://github.com/pages-themes/hacker
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/books/master/CSS_SVG/Screenshot%202022-09-03%203.17.14%20AM.png">
@@ -171,5 +175,12 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 </div>
 
 
-
-<IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg">
+<div class="post-content">
+	<h1>FATHER/ARTiST/HUSBAND/SOLDiER/HACKER_THiNG</h1>
+	<!-- {{content}} would be here, example rendered below -->
+	<figure class="kg-card kg-image-card kg-card-hascaption">
+		<IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg" class="kg-image">
+		<figcaption>Photo by <a href="https://www.nickbrandt.com/">NiCK_BRANT</a> / <a href="https://en.wikipedia.org/wiki/Nick_Brandt">Thaka_iS_SARTU's HuSBAND</a></figcaption>
+	</figure>
+	<p>My name is Thaka, you may know me as Rashard, Tuck, or Shaadi. I am an open polygamist. Rooster of a small crew of dancers, hackers and diplomats. I love my life, I love my wife(vz) and seek to keep them healthy on the internet as human traffickers do thier best to silence them and annialate the population of free women explicitly denying them the right to choose thier own partner</p>
+</div>
