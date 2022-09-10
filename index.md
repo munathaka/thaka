@@ -8,6 +8,40 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<div class="panel4-container">
+
+  <div class="item1">
+    <video width="300" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item2">
+    <video width="300" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item3">
+    <video width="300" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class="item4">
+    <video width="300" autoplay="" loop="" muted="">
+      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
+
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+</div>
 <video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" class="background">
 							<source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
 						</video>
