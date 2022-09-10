@@ -43,7 +43,9 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 </div>
 <video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" class="background">
-							<source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
+<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-2956x764-1.mov" type="video/mp4" />
+<source src="https://vossenwheels.com/wp-content/uploads/2020/01/HF6-3-956x764-.mp4" type="video/mp4" />
+<source src="https://vossenwheels.com/wp-content/uploads/2018/01/ERA-2-3P956x764.mov" type="video/mp4" />
 						</video>
 <video playsinline autoplay loop muted poster="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" class="background">
 							<source src="https://vossenwheels.com/wp-content/uploads/2020/01/EVO-1-3P956x764.mov" type="video/mp4" />
