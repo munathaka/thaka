@@ -1027,8 +1027,10 @@ background: radial-gradient(circle, rgba(255,224,0,0.3379726890756303) 35%, rgba
 
 /* STYLED_DiVS_ROTATiONS_OVERLAYS_ETC */
 div.a {
-
-  background-color: yellow;
-  -ms-transform: rotate(215deg); /* IE 9 */
-  transform: rotate(215deg);
-}
+    max-width:100%;
+    max-height:auto;
+    background-color: yellow;
+    -ms-transform: rotate(215deg); /* IE 9 */
+    transform: rotate(215deg);
+  }
+  
