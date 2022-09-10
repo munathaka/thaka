@@ -7,7 +7,10 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+<hr>
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/coverArt/xmvsf.png">
 
+<hr>
 
 ## LOVEiSANiNFiNiTERESOURCE
 [Willow Smith Talks Polyamory on Red Table Talk: “Love Is an Infinite Resource”](https://www.them.us/story/willow-smith-talks-polyamory-red-table-talk-interview)
@@ -184,3 +187,10 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 	</figure>
 	<p>My name is Thaka, you may know me as Rashard, Tuck, or Shaadi. I am an open polygamist. Rooster of a small crew of dancers, hackers and diplomats. I love my life, I love my wife(vz) and seek to keep them healthy on the internet as human traffickers do thier best to silence them and annialate the population of free women explicitly denying them the right to choose thier own partner</p>
 </div>
+
+ {% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE###############################OF_MiNE########
+{% endhighlight %}
