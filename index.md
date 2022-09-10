@@ -8,6 +8,15 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+
+<IMG src="https://d3tye5etyupvvn.cloudfront.net/img/alloy-wheels-rims-tsw-5-lugs-valencia-chrome-lay-700.jpg">
+<IMG src="https://www.vividracing.com/blog/wp-content/uploads/cast-vs-forged-featured-750x375.jpg">
+
+[Cast Wheels vs Forged Wheels: What’s the Real Difference](https://www.vividracing.com/blog/cast-wheels-vs-forged-wheels-whats-the-real-difference/)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/352622777&color=%23fffb00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-557982797" title="LilFerg4real" target="_blank" style="color: #cccccc; text-decoration: none;">LilFerg4real</a> · <a href="https://soundcloud.com/user-557982797/lil-ferg-range-rover" title="LIL FERG -RANGE ROVER" target="_blank" style="color: #cccccc; text-decoration: none;">LIL FERG -RANGE ROVER</a></div>
+<hr>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/182141579&color=%23fffb00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/frolic-es" title="Frolic-ers" target="_blank" style="color: #cccccc; text-decoration: none;">Frolic-ers</a> · <a href="https://soundcloud.com/frolic-es/project-pat-flexington-prod-by" title="Project Pat - Flexington - WeedOnline.com" target="_blank" style="color: #cccccc; text-decoration: none;">Project Pat - Flexington - WeedOnline.com</a></div>
+<hr>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/72Oh7sKJUEINkQnoPO4kHS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <div class="a"><IMG src="https://images.footlocker.com/is/image/EBFL2/H4778001_a4?wid=2000&hei=2000&fmt=png-alpha"></div>
 <br>
