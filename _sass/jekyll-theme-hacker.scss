@@ -254,7 +254,7 @@ header h1 {
     0 0 125px #0DCBFF;
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
-
+  justify-content: center;
   @include media-max-width($container-max-width) {
     margin-left: 0;
   }
