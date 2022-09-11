@@ -8,6 +8,10 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+
+<div style="padding:42.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/12841132?h=d488cc1980&color=919191&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<img src="https://www.getolympus.com/media/wysiwyg/cms_clp/omd/vlenses.jpg.pagespeed.ic.WG4JDpxp3N.webp">
 <img src="https://www.getolympus.com/media/wysiwyg/cms_clp/omd/vvideo_200212.jpg.pagespeed.ic.lDBN7l3bLz.webp">
 
 [The Game Called ISO – Taking Advantage of the EV System for Better Results – By Vlad Serebryany](https://www.35mmc.com/category/theory-reflections/gear-theory/)
