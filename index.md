@@ -9,9 +9,12 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
+[The Game Called ISO – Taking Advantage of the EV System for Better Results – By Vlad Serebryany](https://www.35mmc.com/category/theory-reflections/gear-theory/)
+[5 Frames with an Olympus XA2 – By Filipa Leite Rosa](https://www.35mmc.com/17/04/2019/5-frames-with-an-olympus-xa2-by-filipa-leite-rosa/)
 [My Favourite Street Photography film camera: The OLYMPUS XA 2](https://www.youtube.com/watch?v=g8gvmiyZT3Q)
 [EVERYDAY CAMERA / OLYMPUS XA](https://www.youtube.com/watch?v=w3JnNSzBGW0)
 
+<hr>
 ## Normanie... I love you
 <div class="panel4-container">
 
