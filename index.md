@@ -8,6 +8,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<img src="https://www.getolympus.com/media/wysiwyg/cms_clp/omd/vvideo_200212.jpg.pagespeed.ic.lDBN7l3bLz.webp">
 
 [The Game Called ISO – Taking Advantage of the EV System for Better Results – By Vlad Serebryany](https://www.35mmc.com/category/theory-reflections/gear-theory/)
 [5 Frames with an Olympus XA2 – By Filipa Leite Rosa](https://www.35mmc.com/17/04/2019/5-frames-with-an-olympus-xa2-by-filipa-leite-rosa/)
