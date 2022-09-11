@@ -9,6 +9,9 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
+
+[EVERYDAY CAMERA / OLYMPUS XA](https://www.youtube.com/watch?v=w3JnNSzBGW0)
+
 ## Normanie... I love you
 <div class="panel4-container">
 
