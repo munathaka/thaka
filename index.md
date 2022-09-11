@@ -43,7 +43,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <div class="panel4-container">
 
   <div class="item1">
-    <video width="300" autoplay="" loop="" muted="">
+    <video width="250" autoplay="" loop="" muted="">
       <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
 
       Your browser does not support the video tag.
@@ -66,7 +66,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
   </div>
 
   <div class="item4">
-    <video width="300" autoplay="" loop="" muted="">
+    <video width="250" autoplay="" loop="" muted="">
       <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/SARTU_GREEN.mp4" type="video/mp4" />
 
       Your browser does not support the video tag.
