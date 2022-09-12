@@ -8,8 +8,24 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+  <div class="container">
+    <h2 style="color:white;" class="neon">
+
+      LiGHTSKiNKEiSHA
+</h2>
+
+  <video id="my_video_1" class="video-js vjs-default-skin" width="640px" height="267px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
+   <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+      <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+    </video>
 
 
+<p style="color:white;" class="neon">
+      I’m offended <br>
+      Don’t be offended - Muni_Long
+    </p>
+  </div>
+<hr>
 <imG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/iM_THiER_MUSE_JiYST_FOLLOWiNG_ORDERZ.jpg">
 <div class="twoPanelSpread">
   <div class="row">
