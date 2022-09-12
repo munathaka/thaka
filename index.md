@@ -8,6 +8,29 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+
+
+<imG src="https://raw.githubusercontent.com/ThakaRashard/BUBBLEGUMPOP_MUNA/master/assets/images/iM_THiER_MUSE_JiYST_FOLLOWiNG_ORDERZ.jpg">
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://www.youtube.com/watch?v=VcibKnRYMis"><img src="https://i.discogs.com/COv8kUBxww1EM4rM7CSnMNTzaZCh7uZXigy8UQSzrws/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTAy/My0xMzU4ODI2NzQ3/LTI0ODguanBlZw.jpeg" /></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://www.youtube.com/watch?v=VcibKnRYMis"><img src="https://i.discogs.com/J_VdMYbfF5PJtmwwLUmWG2MehjS7fygQI9XaS4Zw4E4/rs:fit/g:sm/q:90/h:501/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTAy/My0xMzU4ODI2OTQ5/LTk1MzIuanBlZw.jpeg" /></a>
+         </div>
+    </div>
+  </div>
+</div>
+
+<img src="https://pbs.twimg.com/media/DU4bwyEU8AAJd2Q.jpg">
+## Greg Girard: 120 Days of Sodom, Tokyo, 1977
+<img src="https://64.media.tumblr.com/4c13b3137f447507af0264e1efed5686/e05dd9e0e36667f6-d6/s1280x1920/251a8e59cbbe7eebd54a33571c029ccb4fed4d9c.png">
+<img src="https://raw.githubusercontent.com/ThakaSartu/huma/master/assets/images/KASHDOLLMONEYSLiDE.gif">
 <IMG src="https://images.footlocker.com/is/image/EBFL2/ML574DGF_a3?wid=2000&hei=2000&fmt=png-alpha">
 <IMG src="https://images.footlocker.com/is/image/EBFL2/ML574DGV_a3?wid=2000&hei=2000&fmt=png-alpha">
 <IMG src="https://images.footlocker.com/is/image/EBFL2/ML574GD2_a3?wid=2000&hei=2000&fmt=png-alpha">
@@ -102,6 +125,25 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <div class="a"><IMG src="https://images.footlocker.com/is/image/EBFL2/H4778001_a4?wid=2000&hei=2000&fmt=png-alpha"></div>
 <br>
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/coverArt/xmvsf.png">
+
+<hr>
+
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+<a href="https://youtu.be/iCgdf4pkvtQ"><img src="https://untappedcities.com/wp-content/uploads/2015/09/NASA-Graphics-Standard-Manual-Kickstarter-Hamish-Smyth-Jesse-Reed-Pentagram-NYC-3.jpg" /></a>
+        </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+
+<a href="https://youtu.be/iCgdf4pkvtQ"><img src="https://untappedcities.com/wp-content/uploads/2015/09/NASA-Graphics-Standard-Manual-Kickstarter-Hamish-Smyth-Jesse-Reed-Pentagram-NYC-3.jpg" /></a>
+         </div>
+    </div>
+  </div>
+</div>
 
 <hr>
 
