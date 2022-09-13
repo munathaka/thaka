@@ -7,9 +7,393 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+
 <hr>
+
+
+<hr>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FNh-twGgHaM" title="Jumbo Marley Twist On Natural Hair | 4C HAIR | 3.5 HRS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<img
+  src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/MUNiLONGAHMEDSELASSiEreverse.gif"
+/>
+<img
+  src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/MUNiLONGAHMEDSELASSiEnormalish.gif"
+/>
 <IMG src="https://images.footlocker.com/is/image/EBFL2/C7330106_a3?wid=520&hei=520&fmt=png-alpha">
 <hr>
+<img
+  src="https://www.6speedonline.com/wp-content/uploads/2015/03/Pennzoil_Airlift_Drift_-_YouTube1.jpg"
+/>
+
+<h2>GHOST_iN_THE_SHELL 1995</h2>
+<p>
+  Since my family got kidnapped I have had to cope with messages and threats
+  from of the prostitution crews of LOS_ANGELES_and_ATLANTA they all operate
+  here ya know... ##GLOBAL_SEX_SLAVE_TRADE_and_TOURiSM hint hint. The thing now
+  that 2 years nearly have passed... No one talks to me, Im destitute and I get
+  random glimpses of my wives and our chldren on the street. The Main 3 I have
+  spotted in prostitution aka SexSlavery. Ive lived with them
+  SARTU_ERiKA_and_MUNA_aka_MUNi and I know their sexuality they are not
+  prostitutes. I hate getting notices from random creepy people that you are not
+  going to get your family back and may lose your penis. The agression is awful
+  and now that I have lived here a while and know what my wives orgasm patterns
+  look like in the real world... I know whos raping them
+</p>
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img
+          src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/GHOST_IN_THE_SHELL_KIDNAPPED.PNG"
+          alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY"
+        />
+      </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <img
+          src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/GHOST_IN_THE_SHELL_KIDNAPPED2.PNG"
+          alt="Girl in a jacket"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+
+[For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img
+          src="https://images.genius.com/98174a20e3effb5007c870e603fdb074.1000x1000x1.jpg"
+          alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY"
+        />
+      </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <img
+          src="https://images.genius.com/31103344bb92861eb01934e9c1b12b3e.600x600x1.jpg"
+          alt="Girl in a jacket"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+
+[For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img
+          src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4ad731d78312109000009/vsco5fc4ad74da87e.jpg"
+          alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY"
+        />
+      </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <img
+          src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4ad731d78312109000009/vsco5fc4ad74da87e.jpg"
+          alt="Girl in a jacket"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img
+          src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb3e1d78313c1400000b/vsco5fc4bb3f86cf5.jpg"
+          alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY"
+        />
+      </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <img
+          src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb3e1d78313c1400000b/vsco5fc4bb3f86cf5.jpg"
+          alt="Girl in a jacket"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+<img
+  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fcc5f451d78311b8f000000/vsco5fcc5f47c6ce6.jpg"
+/>
+<img
+  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fe7f7f11d78315e3b000005/vsco5fe7f7f26887a.jpg"
+/>
+<img
+  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fe7f86a1d78315e3b00000b/vsco5fe7f86be15e5.jpg"
+/>
+<img
+  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/600b63321d78311648000005/vsco600b633fe3aa7.jpg"
+/>
+<img
+  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/6013262d0642135a0a000001/vsco6013263180a86.jpg"
+/>
+<img
+  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/6015f9e351b6c34285767faf/vsco6015f9e6a7056.jpg"
+/>
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img
+          src="//im.vsco.co/aws-us-west-2/12f8b0/56497/601f45b3485d0f256e247a03/vsco601f45b50b040.jpg"
+          alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY"
+        />
+      </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <img
+          src="//im.vsco.co/aws-us-west-2/12f8b0/56497/601f458d485d0f256e247a02/vsco601f459043d7e.jpg"
+          alt="Girl in a jacket"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img
+          src="//im.vsco.co/aws-us-west-2/12f8b0/56497/602344b024abe1271400000a/vsco602344b184700.jpg"
+          alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY"
+        />
+      </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <img
+          src="//im.vsco.co/aws-us-west-2/12f8b0/56497/6023446224abe12714000007/vsco6023446470916.jpg"
+          alt="Girl in a jacket"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+<img
+  src="https://images.fashionmodeldirectory.com/images/models/1719/header_image.jpg"
+  alt="HI_CORAL_HERE_IS_A_PICTURE_OF_YaJiDAH_IMAN_JACKSON_MEYU_JABDU_NINE_CYNTHIA_ZAC_TASHI_KINGSTON_MASON"
+/>
+<a href="https://www.youtube.com/watch?v=nUmv36XP1xw" target="_blank"
+  ><img
+    src="https://i.discogs.com/7uBztSSsrqD5a2qhNSUXhQMFPTr8eQDR3_JeydvRDwQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzAx/OS0xMzg0NjMxOTA4/LTYxMzMuanBlZw.jpeg"
+    alt="
+Method Man & Redman  Da Rockwilder  Tear It Off"
+  />
+  Method Man & Redman :: Da Rockwilder</a
+>
+### Dance411_We_Have_HeLP
+<a href="https://youtu.be/RwEhbwQ4n1w" target="_blank">
+  There's Not a Problem My Squad Can't Fix
+</a>
+<a href="https://www.youtube.com/watch?v=GDtn_FtU614" target="_blank">
+  Busta Rhymes - Touch It QUEEN_SHiT_REMiX
+</a>
+<a href="https://www.youtube.com/watch?v=TgMVVCdYu-k">
+  Nija "Don't Say I Didn't Warn You" REACTION and Review
+</a>
+<a href="https://www.youtube.com/watch?v=HdOhwPovkHI" target="_blank"
+  ><img
+    src="https://i.discogs.com/QT0SBV7dCsjz-_FLTsuhV-xF_LH4m6zAQLzMU-JIOoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTkw/OS0xMzMyMzA1NjM3/LmpwZWc.jpeg"
+    alt=" Ice Cube Featuring Das EFX – Check Yo Self"
+  />
+</a>
+
+<a href="https://edex.adobe.com/teaching-resources/vbbcdf96b">
+  Graphic Design 1 Curriculum :: ADOBE_LABS EDUCATIONAL_RESOURCES
+</a>
+<a
+  href="https://edex.adobe.com/teaching-resources/design-a-poster-to-share-an-important-memory"
+>
+  Design a poster to share an important memory
+</a>
+
+<a
+  href="https://edex.adobe.com/teaching-resources/create-a-web-page-about-protest-music-throughout-history"
+>
+  <img
+    src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2021/f2c7bf32-544a-4e2a-a4c6-657280638a5a/1146x0/webp/18401fc3-e5e1-4e59-b2b8-580c2521f83d.jpg"
+  />
+</a>
+
+<a
+  href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal"
+>
+  <img
+    src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2022/fdf92f31-48de-40d4-ab33-22bfa58d8e44/1146x0/webp/d2c4815f-6d98-4b80-976a-bc351fd752ed.png"
+    alt="Make a website to share a SMART goal"
+  />
+</a>
+
+<a
+  href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal"
+>
+  Make a website to share a SMART goal
+</a>
+<a href="https://www.youtube.com/watch?v=zgZ52M4a_R0">
+  All Eyez On Me || 2pac
+</a>
+<a href="https://www.youtube.com/watch?v=TiS8PomD78w">
+  <span class="firstcharacter">Learn Afaan Oromoo Through English</span></a
+>
+<a
+  href="https://www.pewresearch.org/fact-tank/2020/12/07/polygamy-is-rare-around-the-world-and-mostly-confined-to-a-few-regions "
+>
+  Polygamy is rare around the world and mostly confined to a few regions</a
+>
+<a
+  href="https://www.momjunction.com/articles/polyamorous-relationship-rules-and-types_00784080"
+  >Polyamorous Relationship Rules, Types And How It Work
+</a>
+<a
+  href="https://www.them.us/story/what-is-polyamory-according-to-queer-relationship-experts"
+  >What Is Polyamory? Queer Relationship Experts Explain Everything You Need to
+  Know</a
+>
+<a href="https://advocacy4oromia.org/article/three-types-of-oromo-marriage/">
+  <span class="firstcharacter">Three Types of Oromo Marriage </span></a
+>
+<img
+  href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Polyamory_flag_with_infinity_heart.svg/1280px-Polyamory_flag_with_infinity_heart.svg.png"
+/>
+<a
+  href="https://www.youtube.com/watch?v=LcF2KUJVdLE"
+  alt="DEAR_SARTU_THANKS_FOR_SEX____YOU_ARE_STILL_SERVING_MUNA_VOLUNTARILY__MUNA_YOUR_SLAVE_NEEDS_HELP_GETTING_TO_HER_HUSBAND___CAUSE_YOU_SAID_YOU_DEAYiD"
+>
+  <span class="firstcharacterDisplay">It Was A Good Day</span>
+</a>
+<a href="https://psychcentral.com/health/polyamorous-relationship"
+  >Throuple, Quad, and Vee: All About Polyamorous Relationships</a
+>
+<a href="https://www.psychologytoday.com/us/basics/polyamory">
+  Polyamory Consensual Nonmonogamy</a
+>
+<a
+  href="https://www.webmd.com/sex/what-is-polyamory#:~:text=Polyamorous%20people%20have%20multiple%20loving,relationships%20at%20the%20same%20time."
+  >What is Polyamory?</a
+>
+<a
+  href="http://www.west-africa-brief.org/content/en/polygamy-remains-common-and-mostly-legal-west-africa"
+  >Polygamy remains common and mostly legal in West Africa</a
+>
+<a
+  href="https://www.scaringilaw.com/blog/2020/january/polygamy-religion-and-the-law/"
+  >Polygamy, Religion, and the Law</a
+>
+<a
+  href="https://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1015&context=twlj"
+  >Tribal Marriages, Same-Sex Unions, and an Interstate Recognition</a
+>
+Conundrum
+<img
+  src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/I_HAVE_NOT_LOGGED_IN_IN_OVER_TWO_WEEKS.PNG"
+/>
+<p>
+  <span class="firstcharacter">PiNTEREST LocksOutFATHERS</span> It has been over
+  two weeks since I have logged in. I found Sartu, my kidnapped wife from
+  Ethiopia via ##ALPHARETTA. The previous time I found her she exclaimed "That's
+  My Husband!!", and the captors refused to let her go. Im at a point in my life
+  where I have gathered my life partners. The truth is that is too much power. I
+  went to ##DANCE411 in Atlanta for sometime between parenting, working as a
+  ##DevOps_ENGiNEER, and ##JiUJiTSU. A group of women that are blowing up the
+  RnB Chitlin_Circuit of today chose me as their dance husband... My from my
+  understanding 4th cousin Muna and 8th cousin Sartu from ##ETHiO_SOMOLiA and
+  about 10 other women decided we would start a business to support our artistic
+  endevors and care for our children. They were all kidnapped with our children
+  and sold into a ##PROSTiTUTION_MARKET_in_SOUTHERN_CALiFORNiA... As their
+  husband I am blackballed from most work and denied sex... My wives are raped
+  or punched in the face if they show me amorous attention, so we keep safe
+  distace. We are from East Africa and our tribe was documented in
+  <a href="https://www.nationalgeographic.com">NaTionaLGeoGRAPHiC</a>when a
+  reader responed in a letter to
+  <a
+    href="https://www.nationalgeographic.com/magazine/article/amazon-encounter-explorer-photographer"
+    >this article about telepathic experiances in Ethiopia, the reader was sent
+    to to research this telepathic tribe in south america.. If I remember
+    correctly</a
+  >
+  We have relationships outdoors, but the pimps rape them systematically for use
+  in a global ##SEX_TOURiSM_TRADE. The Human traffickers stole and steal
+  everything I reaccquire to get on the internet. And when I travel to use
+  computers at local librays in #LOS_ANGELES_COUNTY, I am severely stalked,
+  attacked, poisoned with chemical weapons and randomly aharrassed. I was using
+  pinterest to serve up internet content for our large families spiritual needs.
+  Those of us from
+  <a href="https://advocacy4oromia.org/services/human-rights/"
+    >Africa are Muslims</a
+  >, and we had a semi-healthy stint with Jehovahs Witnesses. So we are a very
+  spiritually minded family. However many of the pimps are anti god that we are
+  dealing with... People on the late night show and everything are involved.
+  Long story short.. Pinterest was our watering hole. I could post content
+  bulletin board #style, and interact with my wives and children in passing as
+  we wait for my old job JPL to step in the CIA/FBi/US_MARSHALLS and other
+  services in law enforcement has helped us contact since Erikas dissapearance
+  was taken in by the ##DEKALB_COUNTY_SHRIFFs office and they told me to post
+  constantly to stay visible... People dissapear when the dont post in this era
+  of
+</p>
+## ECONOMIC_ASSASINATION_of_FATHERS_FOR_THE_ ##
+PURPOSE_OF_PROSTITUTITUING_HEALTHY_FAMiLiES
+<img
+  src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/I_HAVE_NOT_LOGGED_IN_IN_OVER_TWO_WEEKS.PNG"
+/>
+<div class="pinupGallery">
+  <img
+    class="pinupImage"
+    src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"
+    alt=""
+  />
+  <img
+    class="pinupImage"
+    src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"
+    alt=""
+  />
+  <img
+    class="pinupImage"
+    src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"
+    alt=""
+  />
+  <img
+    class="pinupImage"
+    src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"
+    alt=""
+  />
+  <img
+    class="pinupImage featured-pinupImage"
+    src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"
+    alt=""
+  />
+</div>
+<img
+  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4ad9d1d7831210900000b/vsco5fc4ad9e91733.jpg?w=304&dpr=2"
+/>
+
+
+
+## CORAL =
+[I_CAN_SEE_YOUR_TRACKS](https://www.youtube.com/watch?v=YVITux76S0U)
+<iframe
+  width="100%"
+  height="300"
+  scrolling="no"
+  frameborder="no"
+  allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/469196346&color=%23cbb5ab&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+></iframe>
 
 <h2 style="color:white;" class="neon">
 LiGHTSKiNKEiSHA
