@@ -348,8 +348,8 @@ Method Man & Redman  Da Rockwilder  Tear It Off"
 <a href="https://www.youtube.com/watch?v=TgMVVCdYu-k">
   Nija "Don't Say I Didn't Warn You" REACTION and Review
 </a>
-<a href="https://www.youtube.com/watch?v=HdOhwPovkHI" target="_blank"
-  ><img
+<a href="https://www.youtube.com/watch?v=HdOhwPovkHI" target="_blank">
+<img
     src="https://i.discogs.com/QT0SBV7dCsjz-_FLTsuhV-xF_LH4m6zAQLzMU-JIOoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTkw/OS0xMzMyMzA1NjM3/LmpwZWc.jpeg"
     alt=" Ice Cube Featuring Das EFX – Check Yo Self"
   />
@@ -358,92 +358,50 @@ Method Man & Redman  Da Rockwilder  Tear It Off"
 <a href="https://edex.adobe.com/teaching-resources/vbbcdf96b">
   Graphic Design 1 Curriculum :: ADOBE_LABS EDUCATIONAL_RESOURCES
 </a>
-<a
-  href="https://edex.adobe.com/teaching-resources/design-a-poster-to-share-an-important-memory"
->
+<a href="https://edex.adobe.com/teaching-resources/design-a-poster-to-share-an-important-memory">
   Design a poster to share an important memory
 </a>
 
-<a
-  href="https://edex.adobe.com/teaching-resources/create-a-web-page-about-protest-music-throughout-history"
->
-  <img
-    src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2021/f2c7bf32-544a-4e2a-a4c6-657280638a5a/1146x0/webp/18401fc3-e5e1-4e59-b2b8-580c2521f83d.jpg"
-  />
+<a href="https://edex.adobe.com/teaching-resources/create-a-web-page-about-protest-music-throughout-history">
+  <img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2021/f2c7bf32-544a-4e2a-a4c6-657280638a5a/1146x0/webp/18401fc3-e5e1-4e59-b2b8-580c2521f83d.jpg" />
+</a>
+
+<a href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal">
+  <img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2022/fdf92f31-48de-40d4-ab33-22bfa58d8e44/1146x0/webp/d2c4815f-6d98-4b80-976a-bc351fd752ed.png" alt="Make a website to share a SMART goal" />
 </a>
 
 <a
-  href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal"
->
-  <img
-    src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2022/fdf92f31-48de-40d4-ab33-22bfa58d8e44/1146x0/webp/d2c4815f-6d98-4b80-976a-bc351fd752ed.png"
-    alt="Make a website to share a SMART goal"
-  />
-</a>
+  href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal">
 
-<a
-  href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal"
->
-  Make a website to share a SMART goal
+## Make a website to share a SMART goal
 </a>
 <a href="https://www.youtube.com/watch?v=zgZ52M4a_R0">
   All Eyez On Me || 2pac
 </a>
 <a href="https://www.youtube.com/watch?v=TiS8PomD78w">
-  <span class="firstcharacter">Learn Afaan Oromoo Through English</span></a
->
-<a
-  href="https://www.pewresearch.org/fact-tank/2020/12/07/polygamy-is-rare-around-the-world-and-mostly-confined-to-a-few-regions "
->
-  Polygamy is rare around the world and mostly confined to a few regions</a
->
-<a
-  href="https://www.momjunction.com/articles/polyamorous-relationship-rules-and-types_00784080"
-  >Polyamorous Relationship Rules, Types And How It Work
+  <span class="firstcharacter">Learn Afaan Oromoo Through English</span></a>
+<a href="https://www.pewresearch.org/fact-tank/2020/12/07/polygamy-is-rare-around-the-world-and-mostly-confined-to-a-few-regions " >
+  Polygamy is rare around the world and mostly confined to a few regions</a>
+<a href="https://www.momjunction.com/articles/polyamorous-relationship-rules-and-types_00784080">Polyamorous Relationship Rules, Types And How It Work
 </a>
-<a
-  href="https://www.them.us/story/what-is-polyamory-according-to-queer-relationship-experts"
-  >What Is Polyamory? Queer Relationship Experts Explain Everything You Need to
-  Know</a
->
+<a href="https://www.them.us/story/what-is-polyamory-according-to-queer-relationship-experts">What Is Polyamory? Queer Relationship Experts Explain Everything You Need to
+  Know</a>
 <a href="https://advocacy4oromia.org/article/three-types-of-oromo-marriage/">
-  <span class="firstcharacter">Three Types of Oromo Marriage </span></a
->
-<img
-  href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Polyamory_flag_with_infinity_heart.svg/1280px-Polyamory_flag_with_infinity_heart.svg.png"
-/>
-<a
-  href="https://www.youtube.com/watch?v=LcF2KUJVdLE"
-  alt="DEAR_SARTU_THANKS_FOR_SEX____YOU_ARE_STILL_SERVING_MUNA_VOLUNTARILY__MUNA_YOUR_SLAVE_NEEDS_HELP_GETTING_TO_HER_HUSBAND___CAUSE_YOU_SAID_YOU_DEAYiD"
->
+  <span class="firstcharacter">Three Types of Oromo Marriage </span></a>
+<img href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Polyamory_flag_with_infinity_heart.svg/1280px-Polyamory_flag_with_infinity_heart.svg.png" />
+<a href="https://www.youtube.com/watch?v=LcF2KUJVdLE"
+  alt="DEAR_SARTU_THANKS_FOR_SEX____YOU_ARE_STILL_SERVING_MUNA_VOLUNTARILY__MUNA_YOUR_SLAVE_NEEDS_HELP_GETTING_TO_HER_HUSBAND___CAUSE_YOU_SAID_YOU_DEAYiD" >
   <span class="firstcharacterDisplay">It Was A Good Day</span>
 </a>
-<a href="https://psychcentral.com/health/polyamorous-relationship"
-  >Throuple, Quad, and Vee: All About Polyamorous Relationships</a
->
+<a href="https://psychcentral.com/health/polyamorous-relationship">Throuple, Quad, and Vee: All About Polyamorous Relationships</a>
 <a href="https://www.psychologytoday.com/us/basics/polyamory">
-  Polyamory Consensual Nonmonogamy</a
->
-<a
-  href="https://www.webmd.com/sex/what-is-polyamory#:~:text=Polyamorous%20people%20have%20multiple%20loving,relationships%20at%20the%20same%20time."
-  >What is Polyamory?</a
->
-<a
-  href="http://www.west-africa-brief.org/content/en/polygamy-remains-common-and-mostly-legal-west-africa"
-  >Polygamy remains common and mostly legal in West Africa</a
->
-<a
-  href="https://www.scaringilaw.com/blog/2020/january/polygamy-religion-and-the-law/"
-  >Polygamy, Religion, and the Law</a
->
-<a
-  href="https://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1015&context=twlj"
-  >Tribal Marriages, Same-Sex Unions, and an Interstate Recognition</a
->
+  Polyamory Consensual Nonmonogamy</a>
+<a href="https://www.webmd.com/sex/what-is-polyamory#:~:text=Polyamorous%20people%20have%20multiple%20loving,relationships%20at%20the%20same%20time.">What is Polyamory?</a>
+<a href="http://www.west-africa-brief.org/content/en/polygamy-remains-common-and-mostly-legal-west-africa">Polygamy remains common and mostly legal in West Africa</a>
+<a href="https://www.scaringilaw.com/blog/2020/january/polygamy-religion-and-the-law/">Polygamy, Religion, and the Law</a>
+<a href="https://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1015&context=twlj">Tribal Marriages, Same-Sex Unions, and an Interstate Recognition</a>
 Conundrum
-<img
-  src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/I_HAVE_NOT_LOGGED_IN_IN_OVER_TWO_WEEKS.PNG"
-/>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/I_HAVE_NOT_LOGGED_IN_IN_OVER_TWO_WEEKS.PNG" />
 <p>
   <span class="firstcharacter">PiNTEREST LocksOutFATHERS</span> It has been over
   two weeks since I have logged in. I found Sartu, my kidnapped wife from
@@ -462,12 +420,9 @@ Conundrum
   distace. We are from East Africa and our tribe was documented in
   <a href="https://www.nationalgeographic.com">NaTionaLGeoGRAPHiC</a>when a
   reader responed in a letter to
-  <a
-    href="https://www.nationalgeographic.com/magazine/article/amazon-encounter-explorer-photographer"
-    >this article about telepathic experiances in Ethiopia, the reader was sent
+  <a href="https://www.nationalgeographic.com/magazine/article/amazon-encounter-explorer-photographer">this article about telepathic experiances in Ethiopia, the reader was sent
     to to research this telepathic tribe in south america.. If I remember
-    correctly</a
-  >
+    correctly</a>
   We have relationships outdoors, but the pimps rape them systematically for use
   in a global ##SEX_TOURiSM_TRADE. The Human traffickers stole and steal
   everything I reaccquire to get on the internet. And when I travel to use
@@ -475,9 +430,7 @@ Conundrum
   attacked, poisoned with chemical weapons and randomly aharrassed. I was using
   pinterest to serve up internet content for our large families spiritual needs.
   Those of us from
-  <a href="https://advocacy4oromia.org/services/human-rights/"
-    >Africa are Muslims</a
-  >, and we had a semi-healthy stint with Jehovahs Witnesses. So we are a very
+  <a href="https://advocacy4oromia.org/services/human-rights/">Africa are Muslims</a>, and we had a semi-healthy stint with Jehovahs Witnesses. So we are a very
   spiritually minded family. However many of the pimps are anti god that we are
   dealing with... People on the late night show and everything are involved.
   Long story short.. Pinterest was our watering hole. I could post content
@@ -490,39 +443,18 @@ Conundrum
 </p>
 ## ECONOMIC_ASSASINATION_of_FATHERS_FOR_THE_ ##
 PURPOSE_OF_PROSTITUTITUING_HEALTHY_FAMiLiES
-<img
-  src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/I_HAVE_NOT_LOGGED_IN_IN_OVER_TWO_WEEKS.PNG"
-/>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/I_HAVE_NOT_LOGGED_IN_IN_OVER_TWO_WEEKS.PNG"/>
 <div class="pinupGallery">
-  <img
-    class="pinupImage"
+  <img class="pinupImage"
     src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"
-    alt=""
-  />
-  <img
-    class="pinupImage"
-    src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"
-    alt=""
-  />
-  <img
-    class="pinupImage"
-    src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"
-    alt=""
-  />
-  <img
-    class="pinupImage"
-    src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"
-    alt=""
-  />
-  <img
-    class="pinupImage featured-pinupImage"
-    src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"
-    alt=""
-  />
+    alt=""/>
+  <img class="pinupImage"   src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"  alt=""  />
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"
+    alt="" />
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg"  alt="" />
+  <img class="pinupImage featured-pinupImage"   src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt=""/>
 </div>
-<img
-  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4ad9d1d7831210900000b/vsco5fc4ad9e91733.jpg?w=304&dpr=2"
-/>
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4ad9d1d7831210900000b/vsco5fc4ad9e91733.jpg?w=304&dpr=2"/>
 
 
 
