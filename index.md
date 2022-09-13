@@ -9,6 +9,9 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
 <hr>
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/screenshots/rhianna_ROBYN_SELASSiE_iS_MY_WIFE.PNG" alt="##RiHANNA_IS_MY_WIFE_NOT_ONLY_IN_CHANNELING_BUT_IN_REAL_ASS_LIFE_JUST_LIKE_SHAAKIRA_ERIKA_MUNA_AND_SAA2_AND_KELELA">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/screenshots/muna_is_on_my_private_eye_resume.PNG" alt="Muna is here in a dirty hollywood brothel, after Wagges and RANDO_LOST_ATLANTA_AND_MATT_FIELD_SOLD_HER_INTO_EX_SLAVERY">
+
 
 ## The Butterfly Effect
 
