@@ -18,6 +18,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
   <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/sartu_57f2dae7-08fa-4bd1-80aa-02ab63c8cb90-wm202103norm2.jpg" alt="">
   <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/sartu_57f2dae7-08fa-4bd1-80aa-02ab63c8cb90-wm202103norm2.jpg" alt="">
 </div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1ia019RqDK2o4QiANR1Dyn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 
 ## The Abolition Model
