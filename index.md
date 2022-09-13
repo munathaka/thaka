@@ -9,6 +9,55 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
 <hr>
+
+## Cult_CHiLD
+Normani_aka_Saa2 created this design_based_on_our_shared_religious_experiance. [PHOTOSHOP CC](https://helpx.adobe.com/photoshop/tutorials.html),[AVANT_GUARD_BOLD](https://www.linotype.com/563/itc-avant-garde-gothic-family.html), and Love of our kidnapped Sister and Wife Erika and Daughter Coral
+<IMG src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc4bb3e1d78313c1400000b/vsco5fc4bb3f86cf5.jpg">
+<IMG src="https://cdn.myfonts.net/cdn-cgi/image/width=720,height=360,fit=contain,format=auto/images/pim/10000/269848_948763082bed44f77831ac09e7b5d33a.png">
+<IMG src="https://www.fonts.com/cdn-cgi/image/format=auto/https://cdnimg.fonts.net/CatalogImages/23/1563232.png">
+<IMG src="https://frs.monotype.com/CatalogImages/23/563.png">
+<IMG src="https://assets.fontsinuse.com/static/use-media-items/69/68333/full-1400x1455/5b02e86e/Avantgarde-American-PeopleM.jpeg">
+
+## DRY_BONES_IN_THE_VALLEY
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <a href="https://youtu.be/x-x-eyZf8Ko" class="rollover">
+          <img
+            src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg"
+            class="first"
+          />
+          <img
+            src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg"
+            alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY"
+            class="second"
+          />
+        </a>
+      </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <a href="https://youtu.be/x-x-eyZf8Ko" class="rollover">
+          <img
+            src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg"
+            alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY"
+            class="first"
+          />
+          <img
+            src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg"
+            class="second"
+          />
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/ITC_Avant_Garde_Pangram.svg/1280px-ITC_Avant_Garde_Pangram.svg.png">
+<hr>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/HL1UzIK-flA" title="Rihanna - Work (Explicit) ft. Drake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/49lY0HqqUVc" title="Rihanna - Kiss It Better (Explicit)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 
@@ -24,6 +73,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
   <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/sartu_57f2dae7-08fa-4bd1-80aa-02ab63c8cb90-wm202103norm2.jpg" alt="">
   <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/sartu_57f2dae7-08fa-4bd1-80aa-02ab63c8cb90-wm202103norm2.jpg" alt="">
 </div>
+<br>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1ia019RqDK2o4QiANR1Dyn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 
@@ -116,7 +166,7 @@ Its conditionality is the death of one’s wife. The younger sister or relative 
 />
 
 <h2>GHOST_iN_THE_SHELL 1995</h2>
-<p>
+
   Since my family got kidnapped I have had to cope with messages and threats
   from of the prostitution crews of LOS_ANGELES_and_ATLANTA they all operate
   here ya know... ##GLOBAL_SEX_SLAVE_TRADE_and_TOURiSM hint hint. The thing now
@@ -128,7 +178,7 @@ Its conditionality is the death of one’s wife. The younger sister or relative 
   going to get your family back and may lose your penis. The agression is awful
   and now that I have lived here a while and know what my wives orgasm patterns
   look like in the real world... I know whos raping them
-</p>
+
 <div class="twoPanelSpread">
   <div class="row">
     <div class="panelColumn">
