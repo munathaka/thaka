@@ -20,7 +20,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 ## Cult_CHiLD
 Normani_aka_Saa2 created this design_based_on_our_shared_religious_experiance. [PHOTOSHOP CC](https://helpx.adobe.com/photoshop/tutorials.html),[AVANT_GUARD_BOLD](https://www.linotype.com/563/itc-avant-garde-gothic-family.html), and Love of our kidnapped Sister and Wife Erika and Daughter Coral
 
-<IMG src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc4bb3e1d78313c1400000b/vsco5fc4bb3f86cf5.jpg">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/CULTCHILD_BY_SARTU_THAKA_SHAADI_RASHARD_NORMANI.jpg">
 <IMG src="https://cdn.myfonts.net/cdn-cgi/image/width=720,height=360,fit=contain,format=auto/images/pim/10000/269848_948763082bed44f77831ac09e7b5d33a.png">
 <IMG src="https://www.fonts.com/cdn-cgi/image/format=auto/https://cdnimg.fonts.net/CatalogImages/23/1563232.png">
 <IMG src="https://frs.monotype.com/CatalogImages/23/563.png">
