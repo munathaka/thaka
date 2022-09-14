@@ -1036,6 +1036,43 @@ div.a {
   }
   
   
+
+
+/* ROLLOVER */ 
+.rollovercontainer {
+  margin: auto;
+  width: 500px;
+}
+
+
+
+/* image effect */
+.rollover {
+  position: relative;
+  display: inline-block;
+}
+.rollover img {
+  transition: opacity 1.5s ease-in-out;
+  backface-visibility: hidden;
+}
+.rollover .first {
+  top: 0;
+  left: 0;
+}
+.rollover .second {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+.rollover:hover .first {
+  opacity: 0;
+}
+.rollover:hover .second {
+  opacity: 1;
+}
+
+
 /* SELASSiE_HOUSE_VIDEO_PLAYER */ 
 #instructions {
   max-width: 100%;

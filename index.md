@@ -10,6 +10,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 
 <hr>
 
+[Bedroom hits ~ R&B soul playlist | Muni Long, H.E.R., Ella Mai](https://www.youtube.com/watch?v=n7hU4bbgwQ8)
 ## Dear Sartu... Normani
 ### PLS_LiSiN
 # iM_READY
@@ -26,44 +27,41 @@ Normani_aka_Saa2 created this design_based_on_our_shared_religious_experiance. [
 <IMG src="https://www.fonts.com/cdn-cgi/image/format=auto/https://cdnimg.fonts.net/CatalogImages/23/1563232.png">
 <IMG src="https://frs.monotype.com/CatalogImages/23/563.png">
 <IMG src="https://assets.fontsinuse.com/static/use-media-items/69/68333/full-1400x1455/5b02e86e/Avantgarde-American-PeopleM.jpeg">
-
+<IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/ITC_Avant_Garde_Pangram.svg/1280px-ITC_Avant_Garde_Pangram.svg.png">
 ## DRY_BONES_IN_THE_VALLEY
-<div class="twoPanelSpread">
-  <div class="row">
-    <div class="panelColumn">
-      <div class="leftColumn">
-        <a href="https://youtu.be/x-x-eyZf8Ko" class="rollover">
-          <img
-            src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg"
-            class="first"
-          />
-          <img
-            src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg"
-            alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY"
-            class="second"
-          />
-        </a>
+<!-- BEGIN_CODE_BLOCK -->
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<div id="rollovercontainer">
+  <div class='twoPanelSpread'>
+    <div class='row'>
+      <div class='panelColumn'>
+        <div class='leftColumn'>
+          <a href="https://youtu.be/n7hU4bbgwQ8" class="rollover">
+            <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
+            <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg" class="second" />
+          </a>
+        </div>
       </div>
-    </div>
-    <div class="panelColumn">
-      <div class="rightColumn">
-        <a href="https://youtu.be/x-x-eyZf8Ko" class="rollover">
-          <img
-            src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg"
-            alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY"
-            class="first"
-          />
-          <img
-            src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg"
-            class="second"
-          />
-        </a>
+      <div class='panelColumn'>
+        <div class='rightColumn'>
+          <a href="https://soundcloud.com/iamhermusic/v1-05-focus?in=iamhermusic/sets/h-e-r-5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" class="rollover">
+                        <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg" class="second" />
+           
+<img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
+          </a>
+        </div>
       </div>
     </div>
   </div>
 </div>
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<!-- END_CODE_BLOCK -->
 
-<IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/ITC_Avant_Garde_Pangram.svg/1280px-ITC_Avant_Garde_Pangram.svg.png">
+
+<hr>
+<a href="https://soundcloud.com/iamhermusic/v1-05-focus?in=iamhermusic/sets/h-e-r-5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" class="rollover">
+  <img src="https://images.genius.com/eed3e5e0e3f7246c40c5aee31132f6ec.1000x1000x1.jpg" class="first">
+  <img src="http://images.genius.com/f8e5758a77059c73c237b10adbf3326b.1000x1000x1.jpg" class="second" </a>
 <hr>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/HL1UzIK-flA" title="Rihanna - Work (Explicit) ft. Drake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
