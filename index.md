@@ -28,6 +28,7 @@ Normani_aka_Saa2 created this design_based_on_our_shared_religious_experiance. [
 <IMG src="https://frs.monotype.com/CatalogImages/23/563.png">
 <IMG src="https://assets.fontsinuse.com/static/use-media-items/69/68333/full-1400x1455/5b02e86e/Avantgarde-American-PeopleM.jpeg">
 <IMG src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/ITC_Avant_Garde_Pangram.svg/1280px-ITC_Avant_Garde_Pangram.svg.png">
+
 ## DRY_BONES_IN_THE_VALLEY
 <!-- BEGIN_CODE_BLOCK -->
 <!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
