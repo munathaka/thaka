@@ -15,7 +15,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1258702201&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mahaliamusic" title="Mahalia" target="_blank" style="color: #cccccc; text-decoration: none;">Mahalia</a> · <a href="https://soundcloud.com/mahaliamusic/forever" title="Forever" target="_blank" style="color: #cccccc; text-decoration: none;">Forever</a></div>
 <hr>
 
-[Bedroom hits ~ R&B soul playlist | Muni Long, H.E.R., Ella Mai](https://www.youtube.com/watch?v=n7hU4bbgwQ8)
+[Bedroom_Hits_RnB_Soul_Playlist || Muni Long H.E.R. Ella Mai](https://www.youtube.com/watch?v=n7hU4bbgwQ8)
 
 ## Dear Sartu... Normani
 ### PLS_LiSiN
