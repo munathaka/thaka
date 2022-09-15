@@ -8,6 +8,21 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<h2 style="color:white;" class="neon">
+LiGHTSKiNKEiSHA
+</h2>
+
+  <video id="my_video_1" class="video-js vjs-default-skin" width="100%" height="350px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+  <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+  </video>
+<div class="pinupGallery">
+  <img class="pinupImage featured-pinupImage" src="https://cdn.images.express.co.uk/img/dynamic/128/590x/curious-614794.jpg" alt="">
+  <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/sartu_57f2dae7-08fa-4bd1-80aa-02ab63c8cb90-wm202103norm2.jpg" alt="">
+  <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/sartu_57f2dae7-08fa-4bd1-80aa-02ab63c8cb90-wm202103norm2.jpg" alt="">
+
+</div>
+<hr>
 <iframe  width="100%" height="300" src="https://www.youtube.com/embed/8Fk5sRwbEWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/6wD7_vCyBHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -87,7 +102,7 @@ Normani_aka_Saa2 created this design_based_on_our_shared_religious_experiance. [
   <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/sartu_57f2dae7-08fa-4bd1-80aa-02ab63c8cb90-wm202103norm2.jpg" alt="">
   <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/sartu_57f2dae7-08fa-4bd1-80aa-02ab63c8cb90-wm202103norm2.jpg" alt="">
 </div>
-<br>
+<hr>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1ia019RqDK2o4QiANR1Dyn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 
@@ -341,14 +356,9 @@ Its conditionality is the death of one’s wife. The younger sister or relative 
   src="https://images.fashionmodeldirectory.com/images/models/1719/header_image.jpg"
   alt="HI_CORAL_HERE_IS_A_PICTURE_OF_YaJiDAH_IMAN_JACKSON_MEYU_JABDU_NINE_CYNTHIA_ZAC_TASHI_KINGSTON_MASON"
 />
-<a href="https://www.youtube.com/watch?v=nUmv36XP1xw" target="_blank"
-  ><img
-    src="https://i.discogs.com/7uBztSSsrqD5a2qhNSUXhQMFPTr8eQDR3_JeydvRDwQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzAx/OS0xMzg0NjMxOTA4/LTYxMzMuanBlZw.jpeg"
-    alt="
-Method Man & Redman  Da Rockwilder  Tear It Off"
-  />
-  Method Man & Redman :: Da Rockwilder</a
->
+<a href="https://www.youtube.com/watch?v=nUmv36XP1xw" target="_blank"><img
+    src="https://i.discogs.com/7uBztSSsrqD5a2qhNSUXhQMFPTr8eQDR3_JeydvRDwQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzAx/OS0xMzg0NjMxOTA4/LTYxMzMuanBlZw.jpeg" alt="Method Man & Redman  Da Rockwilder  Tear It Off"/>Method Man & Redman :: Da Rockwilder</a>
+
 ### Dance411_We_Have_HeLP
 <a href="https://youtu.be/RwEhbwQ4n1w" target="_blank">
   There's Not a Problem My Squad Can't Fix
@@ -360,11 +370,7 @@ Method Man & Redman  Da Rockwilder  Tear It Off"
   Nija "Don't Say I Didn't Warn You" REACTION and Review
 </a>
 <a href="https://www.youtube.com/watch?v=HdOhwPovkHI" target="_blank">
-<img
-    src="https://i.discogs.com/QT0SBV7dCsjz-_FLTsuhV-xF_LH4m6zAQLzMU-JIOoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTkw/OS0xMzMyMzA1NjM3/LmpwZWc.jpeg"
-    alt=" Ice Cube Featuring Das EFX – Check Yo Self"
-  />
-</a>
+<img src="https://i.discogs.com/QT0SBV7dCsjz-_FLTsuhV-xF_LH4m6zAQLzMU-JIOoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTkw/OS0xMzMyMzA1NjM3/LmpwZWc.jpeg" alt=" Ice Cube Featuring Das EFX – Check Yo Self" /></a>
 
 <a href="https://edex.adobe.com/teaching-resources/vbbcdf96b">
   Graphic Design 1 Curriculum :: ADOBE_LABS EDUCATIONAL_RESOURCES
@@ -484,10 +490,10 @@ PURPOSE_OF_PROSTITUTITUING_HEALTHY_FAMiLiES
 LiGHTSKiNKEiSHA
 </h2>
 
-  <video id="my_video_1" class="video-js vjs-default-skin" width="640px" height="267px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
-   <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
-      <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
-    </video>
+  <video id="my_video_1" class="video-js vjs-default-skin" width="100%" height="350px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "aspectRatio":"640:267", "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+  <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+  </video>
 
 
 <p style="color:white;" class="neon">
