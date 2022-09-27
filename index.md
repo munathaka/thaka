@@ -2,9 +2,23 @@
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
 3 # ANOTHER###############################################
-4 # UNiVERSE###############################OF_MiNE########
+4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
+<IMG src="https://64.media.tumblr.com/9ab93e5085271a484a006e8a2b17f652/1d99a5aeb596b160-7f/s1280x1920/1df8f4707a9d4bdd4f98409be7e3043f4c38077d.gifv">
+<IMG src="https://media.pitchfork.com/photos/5c7049e733506f48085152fe/2:1/w_648/Doja-Cat-Rico-Nasty-Tia-Tamera.jpg">
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/dI3xkL7qUAc" title="Doja Cat - Need to Know (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Hole To Another Universe
+One day my blog will `RETURN true` when run from the [command](https://starguardian.riotgames.com/en-us/timeline/) line!
+<hr>
+
+### hey babe, you ever experiance ~>
+# Virtual mobbing
+ takes place when a number of individuals use social media or messaging to make comments to or about another individual, usually because they are opposed to that person's opinions. The volume of messages may amount to a campaign of harassment.
+[Cyber-Mobbing: A New Form of Cyberbullying Affecting Teens](https://www.stompoutbullying.org/blog/cyber-mobbing)
+
+<hr>
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
