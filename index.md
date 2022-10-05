@@ -1,10 +1,15 @@
- {% highlight ruby %}
+## Hole To Another Universe
+One day my blog will `RETURN true` when run from the [command](https://starguardian.riotgames.com/en-us/timeline/) line!
+<hr>
+{% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
 3 # ANOTHER###############################################
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 <hr>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/865464328&color=%23f2e0c4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;;"><a href="https://soundcloud.com/latto777" title="Latto" target="_blank" style="color: #cccccc; text-decoration: none;">Latto</a> · <a href="https://soundcloud.com/latto777/muwop-feat-gucci-mane" title="Muwop (feat. Gucci Mane)" target="_blank" style="color: #cccccc; text-decoration: none;">Muwop (feat. Gucci Mane)</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1354776124&color=%23de047a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/kaliii" title="Kali" target="_blank" style="color: #cccccc; text-decoration: none;">Kali</a> · <a href="https://soundcloud.com/kaliii/bout-u" title="Bout U" target="_blank" style="color: #cccccc; text-decoration: none;">Bout U</a></div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312167317&color=%23bc6c84&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; ;"><a href="https://soundcloud.com/admoyo" title="ADMO" target="_blank" style="color: #cccccc; text-decoration: none;"></a> · <a href="https://soundcloud.com/admoyo/another-day-without-you" title="Another Day Without You::SARTU" target="_blank" style="color: #cccccc; text-decoration: none;">Another Day Without You</a></div>
 
 # Digital Inclusion Week
@@ -19,9 +24,10 @@ Because "hes not doing anything creative, he just posts on the internet" and the
 The people that run that lab dont want you... I still dont know what the qualifications are. When building a web application it takes a lot of focus time which they dont allow. They dont get shit. I asked for a job but Im ignored 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1QXrGs956FhI1QOlPY2mB9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<hr>
+<hr>
 
-
-
+<hr>
 <hr>
 <IMG src="https://64.media.tumblr.com/9ab93e5085271a484a006e8a2b17f652/1d99a5aeb596b160-7f/s1280x1920/1df8f4707a9d4bdd4f98409be7e3043f4c38077d.gifv">
 <IMG src="https://media.pitchfork.com/photos/5c7049e733506f48085152fe/2:1/w_648/Doja-Cat-Rico-Nasty-Tia-Tamera.jpg">
