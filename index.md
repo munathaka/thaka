@@ -4,7 +4,25 @@
 3 # ANOTHER###############################################
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
+<hr>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312167317&color=%23bc6c84&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; ;"><a href="https://soundcloud.com/admoyo" title="ADMO" target="_blank" style="color: #cccccc; text-decoration: none;"></a> · <a href="https://soundcloud.com/admoyo/another-day-without-you" title="Another Day Without You::SARTU" target="_blank" style="color: #cccccc; text-decoration: none;">Another Day Without You</a></div>
 
+# Digital Inclusion Week
+
+![http_DIGITAL_INCLUSION](https://www.lapl.org/sites/default/files/Digital%20Inclusion-2022-header.png)
+>Digital Inclusion Week is an annual campaign to bring attention to the need for digital equity in our communities. The library is committed to helping bridge the digital divide by providing resources and access to technology year-round. We provide internet access and computers for public use at all 73 library locations, lend a variety of technology items through our Tech2go program, and offer digital literacy classes for all age groups and skill levels.
+My question is how inclusive is it? They know there is a poplation of really mentally healthy people in LosAngeles that need unlimited access to fast, stable and uncensored internet. They dont let me listen to much music and they remove alot of TV_SERiES and MoViEs and alter search results. My Cellphone Erika_and_Akire got me has unlimited uncensored internet but the screen is small. The cyberrnaughts arae so mean about one hour on the computer like we are children with porn issues. They shoot pornography in the local libraries which shows Los Angeles has no desire to cultivate a healthy environment for healthy all acess learning. Its really gross. Not to mention the glances of my wife's porn when the useless ass jons want to flex "I had sed witchoWiYFE" Im censored and they are not. Sometime songs I recently learned vanish. They are telepathic and say crazy shit all the time if you know the language to ##channel_them... But GUESS WHAT?!?! Im online and im keeping a web presence for my family up with their help... 
+# Im not allowed to use the creative lab
+Because "hes not doing anything creative, he just posts on the internet" and then security escorted me out. They do all they can to keep me from healing from my family's loss. They are just this group of objects passed around for exotically-Bizzare peoples strange-ass sexual prefernces.,.. and they dont get paid. I wonder what the ##children are going through
+![OCTAViA_LAB](https://www.lapl.org/sites/default/files/Octavia_Lab_logo_transparent.png)
+>DEar_CREATIVE_CODER
+The people that run that lab dont want you... I still dont know what the qualifications are. When building a web application it takes a lot of focus time which they dont allow. They dont get shit. I asked for a job but Im ignored 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1QXrGs956FhI1QOlPY2mB9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+<hr>
 <IMG src="https://64.media.tumblr.com/9ab93e5085271a484a006e8a2b17f652/1d99a5aeb596b160-7f/s1280x1920/1df8f4707a9d4bdd4f98409be7e3043f4c38077d.gifv">
 <IMG src="https://media.pitchfork.com/photos/5c7049e733506f48085152fe/2:1/w_648/Doja-Cat-Rico-Nasty-Tia-Tamera.jpg">
 <iframe width="100%" height="500" src="https://www.youtube.com/embed/dI3xkL7qUAc" title="Doja Cat - Need to Know (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
