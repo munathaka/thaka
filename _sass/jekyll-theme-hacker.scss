@@ -376,8 +376,20 @@ code.highlighter-rouge {
 table {
   width: 100%;
   margin: 0 0 20px 0;
-  background: rgb(0, 212, 255);
-  background: radial-gradient(circle, rgba(0, 212, 255, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+  background-image: linear-gradient(
+  315deg,
+  hsl(16deg 88% 57%) 0%,
+  hsl(24deg 88% 57%) 20%,
+  hsl(32deg 88% 57%) 29%,
+  hsl(40deg 88% 57%) 36%,
+  hsl(48deg 88% 57%) 43%,
+  hsl(56deg 88% 57%) 50%,
+  hsl(68deg 88% 57%) 57%,
+  hsl(81deg 88% 57%) 64%,
+  hsl(93deg 88% 57%) 71%,
+  hsl(105deg 88% 57%) 80%,
+  hsl(118deg 88% 57%) 100%
+);
 }
 
 th {
