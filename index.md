@@ -11,6 +11,9 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 
 # Sartu
 I saw you last night. Its criminal what they do to us ya know. Just know I know yah mean what you mean and I always do what you say...
+[Kidz Bop 37 - Friends](https://www.youtube.com/watch?v=Huwu_gXRV24) 
+[KIDZ BOP Kids - Let Me Love You (Official Lyric Video) [KIDZ BOP 34]](https://www.youtube.com/watch?v=0FPaoznHujA)
+
 <div class="expandingGallery">
   <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
   <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
