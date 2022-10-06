@@ -9,6 +9,11 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 {% endhighlight %}
 <hr>
 
+
+![SNiPPiT_10_16_2022](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/screenshots/willowST.PNG)
+![SARTU_LOOKS_LIKE_THEY_GROUNDED_US](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/RYU_CYCLOPS_xmvssf.gif)
+![NEOGEO_MUSiC](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/neoGeo_bootup.gif)
+
 ### The link is broken. There are double pipes which make it render the string as a table per jekyll syntax
 [Bedroom_Hits_RnB_Soul_Playlist || Muni Long H.E.R. Ella Mai](https://www.youtube.com/watch?v=n7hU4bbgwQ8)
 [Bedroom_Hits_RnB_Soul_Playlist  Muni Long H.E.R. Ella Mai](https://www.youtube.com/watch?v=n7hU4bbgwQ8)
