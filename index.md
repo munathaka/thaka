@@ -9,7 +9,17 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 {% endhighlight %}
 <hr>
 
+# Sartu
+I saw you last night. Its criminal what they do to us ya know. Just know I know yah mean what you mean and I always do what you say...
+<div class="expandingGallery">
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/gifs/SiRi_BLOCK_HiS_NUMBER.gif" />
+</div>
 
+<hr>
 ![SNiPPiT_10_16_2022](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/screenshots/willowST.PNG)
 ![SARTU_LOOKS_LIKE_THEY_GROUNDED_US](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/RYU_CYCLOPS_xmvssf.gif)
 ![NEOGEO_MUSiC](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/neoGeo_bootup.gif)
