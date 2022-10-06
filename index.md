@@ -23,6 +23,7 @@ I saw you last night. Its criminal what they do to us ya know. Just know I know 
 </div>
 
 <hr>
+
 ![SNiPPiT_10_16_2022](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/screenshots/willowST.PNG)
 ![SARTU_LOOKS_LIKE_THEY_GROUNDED_US](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/RYU_CYCLOPS_xmvssf.gif)
 ![NEOGEO_MUSiC](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/neoGeo_bootup.gif)
