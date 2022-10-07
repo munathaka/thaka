@@ -9,6 +9,18 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 {% endhighlight %}
 <hr>
 
+
+
+![BEHATiLiFE_WILL_YOU_MARRY_ME_PUBLICLY](https://i.pinimg.com/originals/2b/08/52/2b085241164acb3b21576bbef4a18d70.jpg)
+<iframe src="https://archive.org/embed/arcade_outrun" width="100%" height="504" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![AKIRE_WILL_YOU_MARRY_ME_iGottA_HAREM_AND_YO_SISTUH_INiT##YES##DET_WUZ_AKIRE##AKEEVA_TOO](https://preview.redd.it/94uzrqkqhuq61.jpg?width=640&crop=smart&auto=webp&s=c2a08eb1f3a5594ebb2332ec0fd95fae7be75815)
+
+<iframe src="https://archive.org/embed/arcade_vsav2" width="100%" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![GHOST_MISSING_FAMILY](https://raw.githubusercontent.com/ThakaSartu/bubblegumpop/gh-pages/sort/GHOST_IN_THE_SHELL_KIDNAPPED.PNG)
+![BETTY_PLEASE_MARRY_ME_JASPER_TO_SELASSIE_HUN?!?!##YES##DET_WUZ_BETTY](https://raw.githubusercontent.com/ThakaSartu/bubblegumpop/gh-pages/sort/GHOST_IN_THE_SHELL_KIDNAPPED2.PNG)
+
 # Dear_HUMA
 ### Lets rock out like this...Marry_Me
 ![BOILER_ROOM_NYC_BONOBO](https://i.ytimg.com/vi/uynCeLheCPc/maxresdefault.jpg)
