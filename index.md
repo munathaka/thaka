@@ -29,7 +29,7 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 
 # Dear_ESL_WiVES
 
-![ADVERB_CHART](https://7esl.com/wp-content/uploads/2019/10/List-of-Adverbs-1.jpg)
+[ADVERB_CHART](https://7esl.com/wp-content/uploads/2019/10/List-of-Adverbs-1.jpg)
 [Classic Oromo Guitar Songs Mix (Sirboota Gudda) Sirboota Oromoo - Oromo Music](https://www.youtube.com/watch?v=Byk4WgLp2ys)
 <hr>
 
