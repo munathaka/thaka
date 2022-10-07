@@ -9,7 +9,7 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 {% endhighlight %}
 <hr>
 
-
+![HEALTHY_DAY_LADIES_AND_GENTS](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/screenshots/imYourBodyGuarDandDiLDOiFyouMARRYME.PNG)
 
 ![BEHATiLiFE_WILL_YOU_MARRY_ME_PUBLICLY](https://i.pinimg.com/originals/2b/08/52/2b085241164acb3b21576bbef4a18d70.jpg)
 <iframe src="https://archive.org/embed/arcade_outrun" width="100%" height="504" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
