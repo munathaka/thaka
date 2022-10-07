@@ -10,7 +10,7 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 <hr>
 
 
-
+![DANCE411_SomETHiNG_GONNA_WORK_OUT_GUCCI_AND_KODAK_OUTCHEA](https://animemotivation.com/wp-content/uploads/2019/11/mobile-suit-gundam-seed-anime-wallpaper.jpg)
 ![DEAR_MUNA_AND_CORAL we saved Sartu and Erika Thus far](https://i0.wp.com/recommendmeanime.com/wp-content/uploads/2017/04/gundam-seed-anime.jpg?fit=1136%2C638&ssl=1)
 ![CORAL_IM_STILL_WORKIN](https://images7.alphacoders.com/760/760206.jpg)
 ![MUNA_WE_DID_IT](https://64.media.tumblr.com/bd0e9e16c33320e03464bb6bb4c1ff96/204eaeb05464f918-b0/s1280x1920/745ebb76a366ff1d91164997131a2fb9f508b363.jpg)
