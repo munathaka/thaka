@@ -1012,8 +1012,7 @@ background: radial-gradient(circle, rgba(255,224,0,0.3379726890756303) 35%, rgba
   justify-content: center;
   gap: var(--gap);
   background: rgb(48,78,242);
-background: linear-gradient(27deg, rgba(48,78,242,1) 0%, rgba(242,100,48,1) 50%, rgba(242,229,48,1) 100%);
-}
+  background: linear-gradient(201deg, rgba(48,78,242,1) 0%, rgba(242,100,48,1) 50%, rgba(242,229,48,1) 100%);}
 
 .expandingGallery>img {
   --brightness: 0.75;
