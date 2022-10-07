@@ -13,14 +13,14 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 ### Lets rock out like this...Marry_Me
 ![BOILER_ROOM_NYC_BONOBO](https://i.ytimg.com/vi/uynCeLheCPc/maxresdefault.jpg)
 [Bonobo Boiler Room New York DJ Set](https://youtu.be/uynCeLheCPc)
-<span class="neonText">
+
  አዳምም ለእንስሳት ሁሉ፥ ለሰማይ ወፎችም ሁሉ፥ ለምድር አራዊትም ሁሉ ስም አወጣላቸው፤ ነገር ግን ለአዳም እንደ እርሱ ያለ ረዳት አልተገኘለትም ነበር።
  እግዚአብሔር አምላክም በአዳም ከባድ እንቅልፍን ጣለበት፥ አንቀላፋም፤ ከጎኑም አንዲት አጥንትን ወስዶ ስፍራውን በሥጋ ዘጋው።
  እግዚአብሔር አምላክም ከአዳም የወሰዳትን አጥንት ሴት አድርጎ ሠራት፤ ወደ አዳምም አመጣት።
 አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።
  ስለዚህ ሰው አባቱንና እናቱን ይተዋል፥ በሚስቱም ይጣበቃል፤ ሁለቱም አንድ ሥጋ ይሆናሉ።
 አዳምና ሚስቱ ሁለቱም ዕራቁታቸውን ነበሩ፥ አይተፋፈሩም ነበር። 
-</span>
+
 
 
 # Dear_ESL_WiVES
