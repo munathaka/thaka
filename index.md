@@ -8,8 +8,62 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 <hr>
-
-
+## DRY_BONES_IN_THE_VALLEY
+<!-- BEGIN_CODE_BLOCK -->
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<div id="rollovercontainer">
+  <div class='twoPanelSpread'>
+    <div class='row'>
+      <div class='panelColumn'>
+        <div class='leftColumn'>
+<a href="https://youtu.be/m32kuG5HcBQ" class="rollover">
+            <img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
+            <img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
+          </a>
+        </div>
+      </div>
+      <div class='panelColumn'>
+        <div class='rightColumn'>
+          <a href="https://youtu.be/BzW45zDDQRA" class="rollover">
+<img src="https://girlswithguns.org/wp-content/uploads/2021/06/appleseed-2004.jpg" class="second" />
+           
+<img src="https://m.media-amazon.com/images/M/MV5BMmU5M2JiYWMtYWYzNC00NzE3LWExZTktOTBiOTE2MDJhMGVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<!-- END_CODE_BLOCK -->
+## DRY_BONES_IN_THE_VALLEY
+<!-- BEGIN_CODE_BLOCK -->
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<div id="rollovercontainer">
+  <div class='twoPanelSpread'>
+    <div class='row'>
+      <div class='panelColumn'>
+        <div class='leftColumn'>
+          <a href="https://youtu.be/n7hU4bbgwQ8" class="rollover">
+            <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first" />
+            <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg" class="second" />
+          </a>
+        </div>
+      </div>
+      <div class='panelColumn'>
+        <div class='rightColumn'>
+          <a href="https://soundcloud.com/iamhermusic/v1-05-focus?in=iamhermusic/sets/h-e-r-5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" class="rollover">
+                        <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_YELLOW.jpg" class="second" />
+           
+<img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/DRY_BONES_AG_ITC_GREEN.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" class="first">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
+<!-- END_CODE_BLOCK -->
 ![DANCE411_SomETHiNG_GONNA_WORK_OUT_GUCCI_AND_KODAK_OUTCHEA](https://animemotivation.com/wp-content/uploads/2019/11/mobile-suit-gundam-seed-anime-wallpaper.jpg)
 ![DEAR_MUNA_AND_CORAL we saved Sartu and Erika Thus far](https://i0.wp.com/recommendmeanime.com/wp-content/uploads/2017/04/gundam-seed-anime.jpg?fit=1136%2C638&ssl=1)
 ![CORAL_IM_STILL_WORKIN](https://images7.alphacoders.com/760/760206.jpg)
