@@ -14,7 +14,9 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 ![BEHATiLiFE_WILL_YOU_MARRY_ME_PUBLICLY](https://i.pinimg.com/originals/2b/08/52/2b085241164acb3b21576bbef4a18d70.jpg)
 <iframe src="https://archive.org/embed/arcade_outrun" width="100%" height="504" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+![VAMPIRE_SAVIOR2](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/vsav2.png)
 ![AKIRE_WILL_YOU_MARRY_ME_iGottA_HAREM_AND_YO_SISTUH_INiT##YES##DET_WUZ_AKIRE##AKEEVA_TOO](https://preview.redd.it/94uzrqkqhuq61.jpg?width=640&crop=smart&auto=webp&s=c2a08eb1f3a5594ebb2332ec0fd95fae7be75815)
+![ME_FANTASY_FEELING](https://raw.githubusercontent.com/ThakaSartu/thaka/master/assets/images/redRidinghood.jpg)
 
 <iframe src="https://archive.org/embed/arcade_vsav2" width="100%" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
