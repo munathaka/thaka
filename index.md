@@ -8,6 +8,8 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
+
+![THE_MAXX_HAS_A_COMPANION_well_not_in_The_physical](https://static.wikia.nocookie.net/vsbattles/images/3/38/Themaxx.png)
 <hr>
 
   <div class='twoPanelSpread'>
