@@ -4,7 +4,7 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
-3 # ANOTHER###############################################
+3 # ANOTHER##########https://s.id/1kmbG###################
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 <hr>
