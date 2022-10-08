@@ -7,8 +7,44 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 3 # ANOTHER##########https://s.id/1kmbG###################
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
+
 <hr>
-## DRY_BONES_IN_THE_VALLEY
+
+<div class="thegrid">
+
+<div class="thegrid">
+
+		<div class="thegrid-item">
+			<img class="thegrid-image" src="https://64.media.tumblr.com/cb7a98d5a68f6536acf2a11f6c3e18db/d2c91082da7154ef-42/s1280x1920/85d4d332dd30613c2f062e671d3f035f9e756d4a.jpg" alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer">
+		</div>
+
+		<div class="thegrid-item">
+			<img class="thegrid-image" src="https://64.media.tumblr.com/cb7a98d5a68f6536acf2a11f6c3e18db/d2c91082da7154ef-42/s1280x1920/85d4d332dd30613c2f062e671d3f035f9e756d4a.jpg" alt="sunset behind San Francisco city skyline">
+		</div>
+
+		<div class="thegrid-item">
+			<img class="thegrid-image" src="https://64.media.tumblr.com/cb7a98d5a68f6536acf2a11f6c3e18db/d2c91082da7154ef-42/s1280x1920/85d4d332dd30613c2f062e671d3f035f9e756d4a.jpg" alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan">
+		</div>
+
+		<div class="thegrid-item">
+			<img class="thegrid-image" src="https://64.media.tumblr.com/cb7a98d5a68f6536acf2a11f6c3e18db/d2c91082da7154ef-42/s1280x1920/85d4d332dd30613c2f062e671d3f035f9e756d4a.jpg" alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night">
+		</div>
+
+		<div class="thegrid-item">
+			<img class="thegrid-image" src="https://64.media.tumblr.com/cb7a98d5a68f6536acf2a11f6c3e18db/d2c91082da7154ef-42/s1280x1920/85d4d332dd30613c2f062e671d3f035f9e756d4a.jpg" alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA">
+		</div>
+
+		<div class="thegrid-item">
+			<img class="thegrid-image" src="https://64.media.tumblr.com/cb7a98d5a68f6536acf2a11f6c3e18db/d2c91082da7154ef-42/s1280x1920/85d4d332dd30613c2f062e671d3f035f9e756d4a.jpg" alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp">
+		</div>
+
+	</div>
+
+</div>
+
+<hr>
+
+## APPLESEED
 <!-- BEGIN_CODE_BLOCK -->
 <!-- TWO_PANEL_FLIPFLOP_ROLLOVER_SPREAD -->
 <div id="rollovercontainer">
