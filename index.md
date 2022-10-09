@@ -14,7 +14,7 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 ![AIRMASX](https://images.footlocker.com/is/image/EBFL2/H2718400_a4?wid=2000&hei=2000&fmt=png-alpha)
 ![THE_MAXX_HAS_A_COMPANION_well_not_in_The_physical](https://static.wikia.nocookie.net/vsbattles/images/3/38/Themaxx.png)
 
-<IMG src="https://static.wikia.nocookie.net/vsbattles/images/3/38/Themaxx.png" height="350">
+<IMG src="https://static.wikia.nocookie.net/vsbattles/images/3/38/Themaxx.png" max-height="400">
 <hr>
 
   <div class='twoPanelSpread'>
