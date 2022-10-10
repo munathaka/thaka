@@ -7,7 +7,7 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 3 # ANOTHER##########https://s.id/1kmbG###################
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/396000267?h=9c3699c7fc" width="100%" height="1386" frameborder="0" allowfullscreen></iframe>
+<div style="padding:216.7% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ![dance411](https://en.wikipedia.org/wiki/Alphonse_Mucha#/media/File:Sarah_Bernhardt.png)
 ![Alphonze_Mucha](https://upload.wikimedia.org/wikipedia/commons/a/a4/Alfons_Mucha_in_Studio_%28c._1899%29.jpg)
 [MANiACKERS_FONTS::DESiGN](https://mksd.jp/designfont.html)
