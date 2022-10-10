@@ -8,6 +8,7 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
+![dance411](https://en.wikipedia.org/wiki/Alphonse_Mucha#/media/File:Sarah_Bernhardt.png)
 ![Alphonze_Mucha](https://upload.wikimedia.org/wikipedia/commons/a/a4/Alfons_Mucha_in_Studio_%28c._1899%29.jpg)
 [MANiACKERS_FONTS::DESiGN](https://mksd.jp/designfont.html)
 ![JORDAN7_SUADE](https://images.footlocker.com/is/image/EBFL2/C9307081_a3?wid=2000&hei=2000&fmt=png-alpha)
