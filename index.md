@@ -8,6 +8,9 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
+[MANiACKERS_FONTS::DESiGN](https://mksd.jp/designfont.html)
+[JORDAN7_SUADE](https://images.footlocker.com/is/image/EBFL2/C9307081_a3?wid=2000&hei=2000&fmt=png-alpha)
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1502279614&color=%23a1643f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/munilong" title="Muni Long" target="_blank" style="color: #cccccc; text-decoration: none;">Muni Long</a> · <a href="https://soundcloud.com/munilong/sets/public-displays-of-affection-album" title="Public Displays of Affection: The Album" target="_blank" style="color: #cccccc; text-decoration: none;">Public Displays of Affection: The Album</a></div>
 
 ![AIRMAX_REAR](https://images.footlocker.com/is/image/EBFL2/H2718400_a3?wid=2000&hei=2000&fmt=png-alpha)
