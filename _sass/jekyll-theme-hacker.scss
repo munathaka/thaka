@@ -478,7 +478,7 @@ iframe {
 p {
   color: white;
   background: rgb(48,78,242);
-background: linear-gradient(27deg, rgba(48,78,242,1) 0%, rgba(242,100,48,1) 50%, rgba(242,229,48,1) 100%);
+background: linear-gradient(27deg, rgba(48,78,242,0.6) 0%, rgba(242,100,48,0.6) 50%, rgba(242,229,48,0.6) 100%);
  /*  background: rgb(55,242,48);
 background: linear-gradient(41deg, rgba(55,242,48,0.9) 0%, rgba(242,229,48,0.8) 100%); /* background: rgb(172, 65, 66); */
   /* background: linear-gradient(90deg, rgba(172, 65, 66, 0.7399334733893557) 0%, rgba(170, 117, 159, 0.8127626050420168) 35%, rgba(0, 212, 255, 0.7091211484593838) 100%); */
@@ -495,7 +495,7 @@ h2,
 h1,
 h3 {
   color: white;
-  background: transparent url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif) center repeat;
+ /* background: transparent url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif) center repeat; */
   font-weight: 900;
   background: rgb(0, 0, 0);
   background: linear-gradient(278deg, rgba(0, 0, 0, 0.7768595041322314) 0%, rgba(72, 83, 89, 0.8292011019283747) 35%, rgba(176, 185, 191, 0.7768595041322314) 100%);
