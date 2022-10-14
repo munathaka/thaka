@@ -8,6 +8,23 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
+# Digital_Divide
+### COntemplation_imfomatiON
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/470743698?h=04e102526f&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/470743698">TV20 SHOWCASE NEA DIGITAL DIVIDE-10-21-20 1</a> from <a href="https://vimeo.com/wxyz">WXYZ-TV WMYD-TV Detroit</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<hr>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/67771939?h=816abbe048&color=ff0179&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/67771939">DTC475 Digital Divide</a> from <a href="https://vimeo.com/rainportvisuals">Rainport Visuals</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<hr>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/533004077?h=15fb7d1fd4&color=c9ff23&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/533004077">Education and Digital Divide</a> from <a href="https://vimeo.com/user133979299">Zoe Communications Agency</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+# Vimeo_Flex_Embed
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/12745683?h=f012cf6d31&color=ff0179&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/12745683">Digital Divide</a> from <a href="https://vimeo.com/user695140">Ben Sanoff</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+### Vimeo_FiXED_WiDTH_EMBED
+<div style="padding:80% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/41402420?h=ea56823825&color=ff0179&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/41402420">Digital Divide</a> from <a href="https://vimeo.com/britishcouncilschools">British Council Schools</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ![KEM_3A_BROTHER_SPiLK](https://64.media.tumblr.com/307327605e0dd83b654ad54da9e7220d/tumblr_nr2j6qH33S1qbdsxlo1_1280.jpg)
 
