@@ -8,7 +8,9 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
 
-![M1_APPLESEED](https://static.wikia.nocookie.net/ipod/images/0/0d/Core_ML_icon.png/revision/latest?cb=20220607192831)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/l1EK8Pcy0us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![M1_APPLESEED](https://static.wikia.nocookie.net/ipod/images/0/0d/Core_ML_icon.png)
 # Digital_Divide
 ### COntemplation_imfomatiON
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/470743698?h=04e102526f&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
