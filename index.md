@@ -7,9 +7,8 @@ One day my blog will `RETURN true` when run from the [command](https://starguard
 3 # ANOTHER##########https://s.id/1kmbG###################
 4 # UNiVERSE####################################CORaL#####
 {% endhighlight %}
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/l1EK8Pcy0us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1244252338&color=%237e725e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/jillyanais" title="Jilly" target="_blank" style="color: #cccccc; text-decoration: none;">Jilly</a> · <a href="https://soundcloud.com/jillyanais/throwback" title="Throwback" target="_blank" style="color: #cccccc; text-decoration: none;">Throwback</a></div>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">After journeying through a narrow pass, <a href="https://twitter.com/MarsCuriosity?ref_src=twsrc%5Etfw">@MarsCuriosity</a> has arrived at a long-sought region of Mt. Sharp enriched with salty minerals – tantalizing clues as to how the Red Planet’s climate changed from being more Earth-like to the frozen desert it is today.<a href="https://t.co/vd6u9qxQ6q">https://t.co/vd6u9qxQ6q</a> <a href="https://t.co/So3M3HJk8v">pic.twitter.com/So3M3HJk8v</a></p>&mdash; NASA Mars (@NASAMars) <a href="https://twitter.com/NASAMars/status/1582849685592498186?ref_src=twsrc%5Etfw">October 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ![M1_APPLESEED](https://static.wikia.nocookie.net/ipod/images/0/0d/Core_ML_icon.png)
 # Digital_Divide
 ### COntemplation_imfomatiON
